@@ -1,0 +1,706 @@
+Encounter Tables:
+
+Route 201 (Encounters File 140):
+
+- Starly (Level 2-3):		(Morning: 50% | Day: 50% | Night: 40%)
+- Bidoof (Level 2-4):		(Morning: 40% | Day: 50% | Night: 50%)
+- Kricketot (Level 3):		(Morning: 10% | Day: 0%  | Night: 10%)
+
+Lake Verity (Encounters File 134):
+
+- Starly (Level 2-4):		(Morning: 50% | Day: 50% | Night: 40%)
+- Bidoof (Level 2-4):		(Morning: 50% | Day: 50% | Night: 60%)
+
+Route 202 (Encounters File 141):
+
+- Starly (Level 2, 4):		(Morning: 20% | Day: 20% | Night: 10%)
+- Bidoof (Level 2-4):		(Morning: 40% | Day: 50% | Night: 50%)
+- Kricketot (Level 3-4):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Shinx (Level 3-4):		(Morning: 30% | Day: 30% | Night: 30%)
+
+Route 204 (South Side) (Encounters File 143):
+
+- Zubat (Level 3):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Wurmple (Level 4):		(Morning: 10% | Day: 10% | Night: 0% )
+- Starly (Level 4-6):		(Morning: 25% | Day: 25% | Night: 25%)
+- Kricketot (Level 3-4):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Shinx (Level 4-5):		(Morning: 15% | Day: 15% | Night: 15%)
+- Budew (Level 3-5):		(Morning: 15% | Day: 25% | Night: 15%)
+- Glameow (Level 4):		(Morning: 20% | Day: 20% | Night: 20%)
+- Mime Jr. (Level 5-6):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Route 203 (Encounters File 142):
+
+- Zubat (Level 4):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Abra (Level 4-5):		(Morning: 15% | Day: 15% | Night: 15%)
+- Starly (Level 4-7):		(Morning: 35% | Day: 35% | Night: 25%)
+- Bidoof (Level 4-5):		(Morning: 10% | Day: 20% | Night: 10%)
+- Kricketot (Level 4-5):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Shinx (Level 4-5):		(Morning: 25% | Day: 25% | Night: 25%)
+- Bonsly (Level 6-7):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Oreburgh Gate (1F) (Encounters File 54):
+
+- Zubat (Level 5-8):		(Morning: 50% | Day: 50% | Night: 50%)
+- Psyduck (Level 5-7):		(Morning: 35% | Day: 35% | Night: 35%)
+- Geodude (Level 5, 7):		(Morning: 15% | Day: 15% | Night: 15%)
+
+Route 207 (Encounters File 148):
+
+- Zubat (Level 5):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Machop (Level 5-8):		(Morning: 35% | Day: 45% | Night: 35%)
+- Geodude (Level 5-7):		(Morning: 30% | Day: 30% | Night: 30%)
+- Ponyta (Level 5-7):		(Morning: 25% | Day: 25% | Night: 15%)
+- Kricketot (Level 5-6):	(Morning: 10% | Day: 0%  | Night: 10%)
+
+Oreburgh Mine (B1F) (Encounters File 5):
+
+- Zubat (Level 5-7):		(Morning: 25% | Day: 25% | Night: 25%)
+- Geodude (Level 4-8):		(Morning: 65% | Day: 65% | Night: 65%)
+- Onix (Level 6, 8):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Oreburgh Mine (B2F) (Encounters File 6):
+
+- Zubat (Level 6-8):		(Morning: 25% | Day: 25% | Night: 25%)
+- Geodude (Level 5-9):		(Morning: 65% | Day: 65% | Night: 65%)
+- Onix (Level 7, 9):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Oreburgh Gate (B1F) (Encounters File 55):
+
+- Zubat (Level 6-9):		(Morning: 45% | Day: 45% | Night: 45%)
+- Golbat (Level 10):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Psyduck (Level 8-10):		(Morning: 35% | Day: 35% | Night: 35%)
+- Geodude (Level 6, 8):		(Morning: 15% | Day: 15% | Night: 15%)
+
+Route 204 (North Side) (Encounters File 144):
+
+- Zubat (Level 8):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Wurmple (Level 9):		(Morning: 10% | Day: 10% | Night: 0% )
+- Starly (Level 9-11):		(Morning: 25% | Day: 25% | Night: 25%)
+- Kricketot (Level 8-9):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Shinx (Level 9-10):		(Morning: 15% | Day: 15% | Night: 15%)
+- Budew (Level 8-10):		(Morning: 15% | Day: 25% | Night: 15%)
+- Glameow (Level 9):		(Morning: 20% | Day: 20% | Night: 20%)
+- Mime Jr. (Level 10-11):	(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Valley Windworks (Encounters File 7):
+
+- Elekid (Level 9):		(Morning: 10% | Day: 10% | Night: 10%)
+- Shinx (Level 10):		(Morning: 20% | Day: 20% | Night: 20%)
+- Pachirisu (Level 9, 11):	(Morning: 10% | Day: 10% | Night: 10%)
+- Buizel (Level 9-11):		(Morning: 25% | Day: 25% | Night: 25%)
+- Shellos (Level 9-12):		(Morning: 35% | Day: 35% | Night: 35%)
+
+Route 205 (Southern Segment) (Encounters File 145):
+
+- Magnemite (Level 10):		(Morning: 20% | Day: 20% | Night: 20%)
+- Magby (Level 10):		(Morning: 10% | Day: 10% | Night: 10%)
+- Pachirisu (Level 9, 11):	(Morning: 10% | Day: 10% | Night: 10%)
+- Buizel (Level 10-11):		(Morning: 15% | Day: 15% | Night: 15%)
+- Shellos (Level 9-12):		(Morning: 45% | Day: 45% | Night: 45%)
+
+Eterna Forest (Encounters File 8):
+
+- Hoothoot (Level 12):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Murkrow (Level 12):		(Morning: 10% | Day: 10% | Night: 10%)
+- Misdreavus (Level 12):	(Morning: 10% | Day: 10% | Night: 10%)
+- Wurmple (Level 12):		(Morning: 10% | Day: 10% | Night: 0% )
+- Silcoon (Level 12):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Beautifly (Level 14):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Cascoon (Level 12):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Dustox (Level 14):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Kricketot (Level 12):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Budew (Level 10, 12):		(Morning: 20% | Day: 30% | Night: 20%)
+- Buneary (Level 11):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 205 (Northern Segment) (Encounters File 146):
+
+- Hoothoot (Level 12):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Wurmple (Level 13):		(Morning: 10% | Day: 10% | Night: 0% )
+- Silcoon (Level 14):		(Morning: 10% | Day: 10% | Night: 10%)
+- Beautifly (Level 15):		(Morning: 1%  | Day: 1%  | Night: 1% )
+- Cascoon (Level 14):		(Morning: 10% | Day: 10% | Night: 10%)
+- Dustox (Level 15):		(Morning: 1%  | Day: 1%  | Night: 1% )
+- Bidoof (Level 12-14):		(Morning: 30% | Day: 30% | Night: 30%)
+- Kricketot (Level 12-13):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Budew (Level 12-14):		(Morning: 28% | Day: 38% | Night: 28%)
+
+Route 211 (Western Segment) (Encounters File 158):
+
+- Zubat (Level 14):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Machop (Level 14-15):		(Morning: 15% | Day: 15% | Night: 15%)
+- Hoothoot (Level 15):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Meditite (Level 13-15):	(Morning: 40% | Day: 40% | Night: 20%)
+- Bidoof (Level 14):		(Morning: 20% | Day: 20% | Night: 20%)
+- Chingling (Level 14, 16):	(Morning: 15% | Day: 15% | Night: 15%)
+- Bronzor (Level 14, 16):	(Morning: 10% | Day: 10% | Night: 10%)
+
+Mount Coronet (Northern 1F, Eterna - Celestic) (Encounters File 21):
+
+- Zubat (Level 14-15):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machop (Level 16):		(Morning: 10% | Day: 10% | Night: 10%)
+- Geodude (Level 13, 15):	(Morning: 20% | Day: 30% | Night: 20%)
+- Cleffa (Level 13):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Nosepass (Level 14):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Meditite (Level 14, 16):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 13, 15):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzor (Level 14):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Old Chateau (Encounters File 125-133):
+
+- Gastly (Level 14-17):		(Morning: 100% | Day: 100% | Night: 100%)
+ 
+Route 206 (Encounters File 147):
+
+- Zubat (Level 17):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Machop (Level 17-19):		(Morning: 20% | Day: 20% | Night: 20%)
+- Geodude (Level 18):		(Morning: 10% | Day: 10% | Night: 10%)
+- Ponyta (Level 16-17):		(Morning: 20% | Day: 30% | Night: 20%)
+- Gligar (Level 16, 18):	(Morning: 20% | Day: 20% | Night: 10%)
+- Kricketune (Level 17-18):	(Morning: 10% | Day: 0%  | Night: 10%)
+- Stunky (Level 16):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Wayward Cave (1F) (Encounters File 112):
+
+- Zubat (Level 17, 19):		(Morning: 15% | Day: 15% | Night: 15%)
+- Geodude (Level 17-20):	(Morning: 40% | Day: 40% | Night: 40%)
+- Onix (Level 18, 20):		(Morning: 15% | Day: 15% | Night: 15%)
+- Bronzor (Level 18, 20):	(Morning: 30% | Day: 30% | Night: 30%)
+
+Wayward Cave (B1F) (Encounters File 113):
+
+- Zubat (Level 19):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Geodude (Level 18, 20):	(Morning: 25% | Day: 25% | Night: 25%)
+- Onix (Level 18, 20):		(Morning: 15% | Day: 15% | Night: 15%)
+- Bronzor (Level 18, 20):	(Morning: 30% | Day: 30% | Night: 30%)
+- Gible (Level 17, 19-20):	(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (Southern 1F, Oreburgh - Hearthome) (Encounters File 10):
+
+- Clefairy (Level 17):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Zubat (Level 18-19):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machop (Level 20):		(Morning: 10% | Day: 10% | Night: 10%)
+- Geodude (Level 17, 19):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 18):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Meditite (Level 18, 20):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 17, 19):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzor (Level 18):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 208 (Encounters File 149):
+
+- Zubat (Level 19):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Ralts (Level 17-18):		(Morning: 15% | Day: 15% | Night: 15%)
+- Roselia (Level 19-20):	(Morning: 15% | Day: 15% | Night: 15%)
+- Bidoof (Level 18):		(Morning: 20% | Day: 20% | Night: 20%)
+- Bibarel (Level 18-20):	(Morning: 20% | Day: 20% | Night: 20%)
+- Budew (Level 18-19):		(Morning: 30% | Day: 30% | Night: 20%)
+
+Route 209 (Encounters File 150):
+
+- Zubat (Level 19):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Chansey (Level 17, 19):	(Morning: 5%  | Day: 5%  | Night: 5% )
+- Ralts (Level 17-19):		(Morning: 20% | Day: 20% | Night: 10%)
+- Roselia (Level 19-20):	(Morning: 25% | Day: 25% | Night: 25%)
+- Duskull (Level 17):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Staravia (Level 18-19):	(Morning: 20% | Day: 20% | Night: 10%)
+- Bibarel (Level 18-19):	(Morning: 30% | Day: 30% | Night: 30%)
+
+Lost Tower (1F, 2F) (Encounters File 151-152):
+
+- Zubat (Level 17, 19):		(Morning: 25% | Day: 25% | Night: 25%)
+- Gastly (Level 17-20):		(Morning: 55% | Day: 55% | Night: 35%)
+- Murkrow (Level 18):		(Morning: 10% | Day: 10% | Night: 10%)
+- Misdreavus (Level 18:		(Morning: 10% | Day: 10% | Night: 10%)
+- Duskull (Level 17, 19):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Lost Tower (3F) (Encounters File 153):
+
+- Zubat (Level 18, 20):		(Morning: 25% | Day: 25% | Night: 25%)
+- Golbat (Level 21):		(Morning: 1%  | Day: 1%  | Night: 1% )
+- Gastly (Level 18-21):		(Morning: 54% | Day: 54% | Night: 34%)
+- Murkrow (Level 19):		(Morning: 10% | Day: 10% | Night: 10%)
+- Misdreavus (Level 19):	(Morning: 10% | Day: 10% | Night: 10%)
+- Duskull (Level 18, 20):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Lost Tower (4F) (Encounters File 154):
+
+- Zubat (Level 18, 20):		(Morning: 25% | Day: 25% | Night: 25%)
+- Golbat (Level 21):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Gastly (Level 18-21):		(Morning: 50% | Day: 50% | Night: 30%)
+- Murkrow (Level 19):		(Morning: 10% | Day: 10% | Night: 10%)
+- Misdreavus (Level 19):	(Morning: 10% | Day: 10% | Night: 10%)
+- Duskull (Level 18, 20):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Lost Tower (5F) (Encounters File 155):
+
+- Zubat (Level 19, 21):		(Morning: 25% | Day: 25% | Night: 25%)
+- Golbat (Level 22):		(Morning: 10% | Day: 10% | Night: 10%)
+- Gastly (Level 19-22):		(Morning: 45% | Day: 45% | Night: 25%)
+- Murkrow (Level 20):		(Morning: 10% | Day: 10% | Night: 10%)
+- Misdreavus (Level 20):	(Morning: 10% | Day: 10% | Night: 10%)
+- Duskull (Level 19, 21):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Solaceon Ruins (Encounters File 29-46):
+
+- Unchanged
+
+Route 210 (South of the Psyduck) (Encounters File 156):
+
+- Geodude (Level 18):		(Morning: 20% | Day: 20% | Night: 20%)
+- Ponyta (Level 19-21):		(Morning: 25% | Day: 35% | Night: 15%)
+- Chansey (Level 19, 21):	(Morning: 5%  | Day: 5%  | Night: 5% )
+- Scyther (Level 19, 21): 	(Morning: 15% | Day: 5%  | Night: 5% )
+- Hoothoot (Level 20):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Noctowl (Level 21):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Roselia (Level 20-21):	(Morning: 15% | Day: 15% | Night: 15%)
+- Staravia (Level 19):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 215 (Encounters File 164):
+
+- Abra (Level 19):		(Morning: 10% | Day: 10% | Night: 10%)
+- Kadabra (Level 21-22):	(Morning: 10% | Day: 10% | Night: 10%)
+- Lickitung (Level 20):		(Morning: 10% | Day: 10% | Night: 10%)
+- Scyther (Level 20-22):	(Morning: 15% | Day: 5%  | Night: 5% )
+- Marill (Level 20-22):		(Morning: 25% | Day: 25% | Night: 45%)
+- Staravia (Level 19, 21-22):	(Morning: 30% | Day: 40% | Night: 20%)
+
+Route 214 (Encounters File 163):
+
+- Zubat (Level 22):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Graveler (Level 22-24):	(Morning: 35% | Day: 35% | Night: 25%)
+- Rhyhorn (Level 21-24):	(Morning: 30% | Day: 30% | Night: 20%)
+- Houndour (Level 22-24):	(Morning: 15% | Day: 15% | Night: 25%)
+- Stunky (Level 22):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Valor Lakefront (Encounters File 138):
+
+- Girafarig (Level 26, 28):	(Morning: 25% | Day: 25% | Night: 25%)
+- Houndour (Level 27-28):	(Morning: 10% | Day: 10% | Night: 20%)
+- Staravia (Level 26-28):	(Morning: 25% | Day: 35% | Night: 15%)
+- Bibarel (Level 25-27):	(Morning: 30% | Day: 30% | Night: 30%)
+- Kricketune (Level 26-27):	(Morning: 10% | Day: 0%  | Night: 10%)
+
+Route 213 (Encounters File 162):
+
+- Wingull (Level 24-26):	(Morning: 20% | Day: 20% | Night: 20%)
+- Buizel (Level 23, 25):	(Morning: 25% | Day: 25% | Night: 35%)
+- Shellos (Level 24-26):	(Morning: 35% | Day: 35% | Night: 45%)
+- Chatot (Level 23, 25):	(Morning: 20% | Day: 20% | Night: 0% )
+
+Route 212 (Northern Area) (Encounters File 160):
+
+- Marill (Level 21, 23):	(Morning: 25% | Day: 25% | Night: 45%)
+- Ralts (Level 22):		(Morning: 0%  | Day: 10% | Night: 0% )
+- Kirlia (Level 22, 24):	(Morning: 20% | Day: 10% | Night: 10%)
+- Roselia (Level 22-24):	(Morning: 35% | Day: 35% | Night: 35%)
+- Staravia (Level 21, 23):	(Morning: 20% | Day: 20% | Night: 10%)
+
+Route 212 (Southern Area) (Encounters File 161):
+
+- Quagsire (Level 24, 26):	(Morning: 30% | Day: 30% | Night: 30%)
+- Buizel (Level 23, 25):	(Morning: 15% | Day: 15% | Night: 15%)
+- Shellos (Level 23-26):	(Morning: 45% | Day: 45% | Night: 45%)
+- Croagunk (Level 24-25):	(Morning: 10% | Day: 10% | Night: 10%)
+
+Route 210 (Northern Section) (Encounters File 157):
+
+- Machop (Level 28-29):		(Morning: 15% | Day: 15% | Night: 15%)
+- Machoke (Level 29-30):	(Morning: 10% | Day: 10% | Night: 10%)
+- Scyther (Level 27, 29):	(Morning: 15% | Day: 5%  | Night: 5% )
+- Hoothoot (Level 27):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Noctowl (Level 27):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Meditite (Level 27, 29):	(Morning: 20% | Day: 20% | Night: 10%)
+- Swablu (Level 27):		(Morning: 20% | Day: 30% | Night: 20%)
+- Bibarel (Level 28):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 211 (Eastern Segment) (Encounters File 159):
+
+- Golbat (Level 28):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Machoke (Level 29-30):	(Morning: 15% | Day: 15% | Night: 15%)
+- Graveler (Level 28):		(Morning: 20% | Day: 20% | Night: 20%)
+- Noctowl (Level 29):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Meditite (Level 27-29):	(Morning: 40% | Day: 40% | Night: 20%)
+- Chingling (Level 28, 30):	(Morning: 15% | Day: 15% | Night: 15%)
+- Bronzor (Level 29):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Route 221 (Encounters File 169):
+
+- Sudowoodo (Level 29-31):	(Morning: 25% | Day: 25% | Night: 25%)
+- Girafarig (Level 28, 30):	(Morning: 25% | Day: 25% | Night: 25%)
+- Roselia (Level 29-30):	(Morning: 25% | Day: 25% | Night: 15%)
+- Floatzel (Level 30-31):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Skuntank (Level 30):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Fuego Iron Works (Encounters File 9):
+
+- Magnemite (Level 28-30):	(Morning: 30% | Day: 30% | Night: 30%)
+- Magmar (Level 28-29):		(Morning: 30% | Day: 30% | Night: 20%)
+- Floatzel (Level 29-31):	(Morning: 25% | Day: 25% | Night: 25%)
+- Gastrodon (Level 29-31):	(Morning: 15% | Day: 15% | Night: 25%)
+
+Route 218 (Encounters File 167):
+
+- Mr. Mime (Level 29-31):	(Morning: 25% | Day: 25% | Night: 25%)
+- Floatzel (Level 30-31):	(Morning: 10% | Day: 10% | Night: 20%)
+- Gastrodon (Level 28, 30):	(Morning: 25% | Day: 25% | Night: 35%)
+- Glameow (Level 30):		(Morning: 20% | Day: 20% | Night: 20%)
+- Chatot (Level 28, 30):	(Morning: 20% | Day: 20% | Night: 0% )
+
+Iron Island (1F) (Encounters File 119):
+
+- Zubat (Level 30):		(Morning: 10% | Day: 10% | Night: 10%)
+- Golbat (Level 32):		(Morning: 10% | Day: 10% | Night: 10%)
+- Geodude (30-32):		(Morning: 35% | Day: 35% | Night: 35%)
+- Graveler (Level 31-33):	(Morning: 35% | Day: 35% | Night: 35%)
+- Onix (Level 31, 33):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Iron Island (B1F) (Encounters File 120, 121):
+
+- Golbat (Level 30, 32):	(Morning: 20% | Day: 20% | Night: 20%)
+- Graveler (Level 30-33):	(Morning: 70% | Day: 70% | Night: 70%)
+- Onix (Level 31, 33):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Iron Island (B2F 1, 2) (Encounters File 122, 123):
+
+- Golbat (Level 31, 33):	(Morning: 20% | Day: 20% | Night: 20%)
+- Graveler (Level 31-34):	(Morning: 50% | Day: 50% | Night: 50%)
+- Onix (Level 32):		(Morning: 20% | Day: 20% | Night: 20%)
+- Steelix (Level 33, 35):	(Morning: 10% | Day: 10% | Night: 10%)
+
+Iron Island (B3F) (Encounters File 124):
+
+- Golbat (Level 31, 33):	(Morning: 20% | Day: 20% | Night: 20%)
+- Graveler (Level 31-34):	(Morning: 50% | Day: 50% | Night: 50%)
+- Steelix (Level 32-33, 35):	(Morning: 30% | Day: 30% | Night: 30%)
+
+Mount Coronet (B1F, Feebas Lake) (Encounters File 22):
+
+- Clefairy (Level 32):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 33-34):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 35):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 32, 34):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 33):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Meditite (Level 33, 35):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 32, 34):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzor (Level 33):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (Northern 1F 2, Snowpoint) (Encounters File 20):
+
+- Clefairy (Level 32):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 33-34):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 35):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 32, 34):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 33):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Meditite (Level 33, 35):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 32, 34):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzor (Level 33):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 216: (Encounters File 165):
+
+- Zubat (Level 32):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Graveler (Level 35):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Sneasel (Level 33-35):	(Morning: 35% | Day: 35% | Night: 35%)
+- Meditite (Level 32-33):	(Morning: 20% | Day: 20% | Night: 10%)
+- Snorunt (Level 33):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Snover (Level 32-35):		(Morning: 40% | Day: 40% | Night: 30%)
+
+Route 217: (Encounters File 166):
+
+- Sneasel (Level 33-35):	(Morning: 25% | Day: 25% | Night: 15%)
+- Swinub (Level 32-34):		(Morning: 35% | Day: 35% | Night: 35%)
+- Snorunt (Level 33):		(Morning: 0%  | Day: 0%  | Night: 20%)
+- Snover (Level 32-35):		(Morning: 40% | Day: 40% | Night: 30%)
+
+Acuity Lakefront: (Encounters File 139):
+
+- Sneasel (Level 33, 35):	(Morning: 25% | Day: 25% | Night: 15%)
+- Swinub (Level 32, 34):	(Morning: 35% | Day: 35% | Night: 35%)
+- Snorunt (Level 32-33):	(Morning: 0%  | Day: 0%  | Night: 20%)
+- Snover (Level 32-35):		(Morning: 40% | Day: 40% | Night: 30%)
+
+Lake Acuity: (Encounters File 137):
+
+- Psyduck (Level 38):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Golduck (Level 39-40):	(Morning: 15% | Day: 15% | Night: 15%)
+- Sneasel (Level 41):		(Morning: 10% | Day: 10% | Night: 10%)
+- Snorunt (Level 39-40):	(Morning: 0%  | Day: 0%  | Night: 20%)
+- Bibarel (Level 39-40):	(Morning: 25% | Day: 25% | Night: 25%)
+- Snover (Level 38-41):		(Morning: 45% | Day: 45% | Night: 25%)
+
+Mount Coronet (2F) (Encounters File 11):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 36, 38):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (3F) (Encounters File 12):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 4%  | Day: 4%  | Night: 14%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37-39):	(Morning: 21% | Day: 21% | Night: 11%)
+- Chingling (Level 36, 38):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (4F Room 1) (Encounters File 15):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 36, 38):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (4F Room 2) (Encounters File 15):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 36, 38):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (4F Room 3) (Encounters File 16):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chimecho (Level 39):		(Morning: 1%  | Day: 1%  | Night: 1% )
+- Chingling (Level 36, 38):	(Morning: 9%  | Day: 9%  | Night: 9% )
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (5F) (Encounters File 17):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chimecho (Level 39-40):	(Morning: 5%  | Day: 5%  | Night: 5% )
+- Chingling (Level 36):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (6F) (Encounters File 18):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36, 38):	(Morning: 20% | Day: 30% | Night: 20%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chimecho (Level 39-41):	(Morning: 10% | Day: 10% | Night: 10%)
+- Bronzong (Level 37):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Mount Coronet (Tunnel Room) (Encounters File 19):
+
+- Clefairy (Level 36):		(Morning: 10% | Day: 0%  | Night: 10%)
+- Golbat (Level 37-38):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Machoke (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 36-38):	(Morning: 40% | Day: 50% | Night: 40%)
+- Nosepass (Level 37):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 37, 39):	(Morning: 20% | Day: 20% | Night: 10%)
+- Chingling (Level 36, 38):	(Morning: 10% | Day: 10% | Night: 10%)
+
+Mount Coronet (Mountainside) (Encounters File 13, 14):
+
+- Golbat (Level 38):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Machoke (Level 40):		(Morning: 10% | Day: 10% | Night: 10%)
+- Noctowl (Level 39):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Nosepass (Level 38):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Medicham (Level 38, 40):	(Morning: 20% | Day: 20% | Night: 10%)
+- Absol (Level 38, 40):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Chingling (Level 37, 39):	(Morning: 10% | Day: 10% | Night: 10%)
+- Snover (Level 36):		(Morning: 20% | Day: 20% | Night: 20%)
+- Abomasnow (Level 38-39):	(Morning: 30% | Day: 30% | Night: 20%)
+
+Sendoff Spring (Encounters File 59):
+
+- Golbat (Level 38):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Graveler (Level 37-39):	(Morning: 35% | Day: 35% | Night: 25%)
+- Dusclops (Level 39, 40):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Staravia (Level 38, 40):	(Morning: 20% | Day: 20% | Night: 10%)
+- Bibarel (Level 37-38):	(Morning: 30% | Day: 30% | Night: 30%)
+- Chingling (Level 37, 39):	(Morning: 10% | Day: 10% | Night: 10%)
+
+Route 222 (Encounters File 170):
+
+- Magnemite (Level 39):		(Morning: 10% | Day: 10% | Night: 10%)
+- Magneton (Level 41):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Electabuzz (Level 39, 41):	(Morning: 30% | Day: 30% | Night: 20%)
+- Pelipper (Level 40):		(Morning: 10% | Day: 10% | Night: 10%)
+- Luxio (Level 38, 40):		(Morning: 10% | Day: 10% | Night: 10%)
+- Floatzel (Level 38, 40-41):	(Morning: 5%  | Day: 5%  | Night: 25%)
+- Purugly (Level 40):		(Morning: 20% | Day: 20% | Night: 20%)
+- Chatot (Level 38):		(Morning: 10% | Day: 10% | Night: 0% )
+
+Victory Road (1F) (Encounters File 47):
+
+- Golbat (Level 42-43):		(Morning: 5%  | Day: 5%  | Night: 15%)
+- Graveler (Level 40, 42):	(Morning: 30% | Day: 30% | Night: 20%)
+- Onix (Level 41-42):		(Morning: 20% | Day: 20% | Night: 20%)
+- Rhyhorn (Level 41):		(Morning: 20% | Day: 20% | Night: 20%)
+- Rhydon (Level 41, 43):	(Morning: 15% | Day: 15% | Night: 15%)
+- Steelix (Level 42):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Gabite (Level 41):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Victory Road (2F) (Encounters File 48):
+
+- Golbat (Level 41, 44):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Graveler (Level 41, 43):	(Morning: 15% | Day: 15% | Night: 5% )
+- Magneton (Level 41, 43):	(Morning: 30% | Day: 30% | Night: 30%)
+- Onix (Level 42):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Steelix (Level 42, 44):	(Morning: 40% | Day: 40% | Night: 40%)
+- Gabite (Level 43):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Victory Road (B1F) (Encounters File 49):
+
+- Golbat (Level 41, 44):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Graveler (Level 41, 43):	(Morning: 15% | Day: 15% | Night: 5% )
+- Onix (Level 42):		(Morning: 10% | Day: 10% | Night: 10%)
+- Azumarill (Level 41, 43):	(Morning: 30% | Day: 30% | Night: 30%)
+- Steelix (Level 44):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Floatzel (Level 42, 44):	(Morning: 30% | Day: 30% | Night: 30%)
+- Gabite (Level 43):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Post Game:
+
+Victory Road (1F Back 2) (Encounters File 50):
+
+- Golbat (Level 47, 50):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Graveler (Level 47, 49):	(Morning: 15% | Day: 15% | Night: 5% )
+- Dewgong (Level 48, 50):	(Morning: 15% | Day: 15% | Night: 15%)
+- Azumarill (Level 47, 49):	(Morning: 30% | Day: 30% | Night: 30%)
+- Floatzel (Level 48, 50):	(Morning: 30% | Day: 30% | Night: 30%)
+- Gabite (Level 49):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Victory Road (1F Back 1 and 3) (Encounters File 51, 52):
+
+- Golbat (Level 47, 50):	(Morning: 5%  | Day: 5%  | Night: 15%)
+- Graveler (Level 47, 49-50):	(Morning: 30% | Day: 30% | Night: 20%)
+- Onix (Level 48, 50):		(Morning: 20% | Day: 20% | Night: 20%)
+- Steelix (Level 50):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Floatzel (Level 47-49):	(Morning: 35% | Day: 35% | Night: 35%)
+- Gabite (Level 50):		(Morning: 5%  | Day: 5%  | Night: 5% )
+
+Route 224 (Encounters File 171):
+
+- Oddish (Level 49):		(Morning: 0%  | Day: 0%  | Night: 20%)
+- Gloom (Level 51):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Bellsprout (Level 49):	(Morning: 20% | Day: 20% | Night: 0% )
+- Weepinbell (Level 51):	(Morning: 5%  | Day: 5%  | Night: 5% )
+- Beautifly (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Dustox (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Pelipper (Level 51):		(Morning: 10% | Day: 10% | Night: 10%)
+- Roselia (Level 50):		(Morning: 20% | Day: 20% | Night: 20%)
+- Floatzel (Level 50):		(Morning: 20% | Day: 20% | Night: 20%)
+- Gastrodon (Level 49):		(Morning: 10% | Day: 10% | Night: 10%)
+
+Route 225 (Encounters File 172):
+
+- Rattata (Level 47):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Raticate (Level 49-50):	(Morning: 15% | Day: 15% | Night: 15%)
+- Spearow (Level 47):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Fearow (Level 48-50):		(Morning: 30% | Day: 30% | Night: 10%)
+- Machoke (Level 48, 50):	(Morning: 25% | Day: 25% | Night: 25%)
+- Graveler (Level 49):		(Morning: 20% | Day: 20% | Night: 20%)
+- Banette (Level 48, 50):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Route 226 (Encounters File 181):
+
+- Rattata (Level 47):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Raticate (Level 49-50):	(Morning: 15% | Day: 15% | Night: 15%)
+- Fearow (Level 48, 50):	(Morning: 20% | Day: 20% | Night: 0% )
+- Machoke (Level 48, 50):	(Morning: 25% | Day: 25% | Night: 25%)
+- Graveler (Level 49):		(Morning: 20% | Day: 20% | Night: 20%)
+- Wingull (Level 47, 49):	(Morning: 15% | Day: 15% | Night: 15%)
+- Banette (Level 48, 50):	(Morning: 0%  | Day: 0%  | Night: 20%)
+
+Route 227 (Encounters File 173):
+
+- Fearow (Level 51, 53):	(Morning: 20% | Day: 20% | Night: 10%)
+- Golbat (Level 51):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Graveler (Level 51, 53):	(Morning: 15% | Day: 15% | Night: 15%)
+- Weezing (Level 52):		(Morning: 10% | Day: 10% | Night: 10%)
+- Rhyhorn (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Rhydon (Level 54):		(Morning: 20% | Day: 20% | Night: 20%)
+- Skarmory (Level 53):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Numel (Level 51):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Camerupt (Level 53):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Route 228 (Encounters File 174):
+
+- Diglett (Level 49):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Dugtrio (Level 50-52):	(Morning: 30% | Day: 30% | Night: 30%)
+- Rhydon (Level 50, 52):	(Morning: 20% | Day: 20% | Night: 10%)
+- Cacnea (Level 50):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Cacturne (Level 50, 52):	(Morning: 20% | Day: 20% | Night: 40%)
+- Hippowdon (Level 50-51):	(Morning: 20% | Day: 20% | Night: 10%)
+
+Route 229 (Encounters File 175):
+
+- Pidgey (Level 47, 50):	(Morning: 5%  | Day: 25% | Night: 5% )
+- Ledian (Level 50):		(Morning: 20% | Day: 0%  | Night: 0% )
+- Ariados (Level 50):		(Morning: 0%  | Day: 0%  | Night: 20%)
+- Beautifly (Level 48):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Dustox (Level 48):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Volbeat (Level 49):		(Morning: 10% | Day: 10% | Night: 10%)
+- Illumise (Level 49):		(Morning: 10% | Day: 10% | Night: 10%)
+- Roselia (Level 48-50):	(Morning: 45% | Day: 45% | Night: 45%)
+
+Route 230 (Encounters File 182):
+
+- Oddish (Level 47):		(Morning: 0%  | Day: 0%  | Night: 20%)
+- Gloom (Level 49):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Bellsprout (Level 47):	(Morning: 20% | Day: 20% | Night: 0% )
+- Weepinbell (Level 49):	(Morning: 5%  | Day: 5%  | Night: 5% )
+- Wingull (Level 48):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Pelipper (Level 48, 50):	(Morning: 30% | Day: 30% | Night: 30%)
+- Roselia (Level 49):		(Morning: 10% | Day: 10% | Night: 10%)
+- Floatzel (Level 48, 50):	(Morning: 25% | Day: 25% | Night: 25%)
+
+Stark Mountain (Exterior) (Encounters File 56):
+
+- Fearow (Level 51, 53):	(Morning: 20% | Day: 20% | Night: 10%)
+- Golbat (Level 51):		(Morning: 0%  | Day: 0%  | Night: 10%)
+- Graveler (Level 51, 53):	(Morning: 15% | Day: 15% | Night: 15%)
+- Weezing (Level 52):		(Morning: 10% | Day: 10% | Night: 10%)
+- Rhyhorn (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Rhydon (Level 54):		(Morning: 20% | Day: 20% | Night: 20%)
+- Skarmory (Level 53):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Numel (Level 51):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Camerupt (Level 53):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Stark Mountain (Interior 1) (Encounters File 57):
+
+- Golbat (Level 52):		(Morning: 20% | Day: 20% | Night: 20%)
+- Graveler (Level 51, 53):	(Morning: 15% | Day: 15% | Night: 15%)
+- Weezing (Level 51, 53):	(Morning: 15% | Day: 15% | Night: 15%)
+- Rhyhorn (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Rhydon (Level 54):		(Morning: 20% | Day: 20% | Night: 20%)
+- Slugma (Level 52):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Camerupt (Level 54):		(Morning: 20% | Day: 20% | Night: 20%)
+
+Stark Mountain (Interior 2) (Encounters File 58):
+
+- Golbat (Level 53):		(Morning: 10% | Day: 10% | Night: 10%)
+- Graveler (Level 52, 54):	(Morning: 15% | Day: 15% | Night: 15%)
+- Koffing (Level 53):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Weezing (Level 52, 54):	(Morning: 15% | Day: 15% | Night: 15%)
+- Rhydon (Level 55):		(Morning: 10% | Day: 10% | Night: 10%)
+- Slugma (Level 53):		(Morning: 5%  | Day: 5%  | Night: 5% )
+- Camerupt (Level 53, 55):	(Morning: 40% | Day: 40% | Night: 40%)

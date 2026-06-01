@@ -1,0 +1,756 @@
+National Dex Moveset Changes:
+
+Generation I
+
+#012 - Butterfree:
+
+- Level 38: Air Slash
+
+#017 - Pidgey:
+
+- Level 17: Wing Attack (Moved from Level 33)
+- Level 33: Air Slash (Moved from Level 49)
+
+#018 - Pidgeotto:
+
+- Level 17: Wing Attack (Moved from Level 37)
+- Level 37: Air Slash (Moved from Level 57)
+
+#019 - Pidgeot:
+
+- Level 17: Wing Attack (Moved from Level 38)
+- Level 38: Air Slash (Moved from Level 62)
+
+#021 - Spearow:
+
+- Level 33: Drill Peck (Moved from Level 37)
+- Level 37: Roost (Moved from Level 33)
+
+#022 - Fearow:
+
+- Level 41: Drill Peck (Moved from Level 47)
+- Level 47: Roost (Moved from Level 41)
+
+#023 - Ekans:
+
+- Level 1: Poison Sting (Moved from Level 4)
+- Level 4: Acid (Moved from Level 20)
+- Level 20: Poison Fang
+
+#024 - Arbok:
+
+- Level 1: Gunk Shot
+- Level 4: Acid (Moved from Level 20)
+- Level 20: Poison Fang
+
+#027 - Sandshrew:
+
+- Level 1: Poison Sting (Moved from Level 9)
+- Level 9: Fury Swipes (Moved from Level 19) 
+- Level 19: Dig
+
+#028 - Sandslash:
+
+- Level 1: Poison Sting (Moved from Level 9)
+- Level 9: Fury Swipes (Moved from Level 19) 
+- Level 19: Dig
+- Level 36: Earthquake
+
+#031 - Nidoqueen:
+
+- Level 1: Earth Power
+- Level 1: Superpower (Moved from Level 58)
+
+#034 - Nidoking:
+
+- Level 1: Earth Power
+- Level 1: Megahorn (Moved from Level 58)
+
+#038 - Ninetales:
+
+- Level 1: Extrasensory
+
+#043 - Oddish:
+
+- Level 29: Giga Drain (Moved from Level 37)
+- Level 37: Natural Gift (Moved from Level 29)
+
+#044 - Gloom:
+
+- Level 35: Giga Drain (Moved from Level 47)
+- Level 47: Natural Gift (Moved from Level 35)
+
+#045 - Vileplume:
+
+- Level 1: Sludge Bomb
+- Level 1: Sleep Powder
+- Level 1: Giga Drain (Replaces Mega Drain)
+- Level 1: Weather Ball
+
+#046 - Paras:
+
+- Level 1: Absorb
+- Level 14: Mega Drain
+- Level 30: Giga Drain (Moved from Level 33)
+- Level 33: X-Scissor (Moved from Level 43)
+- Level 43: Cross Poison
+
+#047 - Parasect:
+
+- Level 1: Absorb
+- Level 14: Mega Drain
+- Level 33: Giga Drain (Moved from Level 39)
+- Level 36: Bug Bite
+- Level 39: X-Scissor (Moved from Level 55)
+- Level 55: Cross Poison
+
+#048 - Venonat:
+
+- Level 13: Stun Spore (Moved from Level 23)
+- Level 23: Sleep Powder (Moved from Level 29)
+- Level 29: Poison Fang (Moved from Level 41)
+- Level 41: Psychic (Moved from Level 47)
+
+#049 - Venomoth:
+ 
+- Level 13: Stun Spore (Moved from Level 23)
+- Level 23: Sleep Powder (Moved from Level 29)
+- Level 29: Poison Fang (Moved from Level 47)
+- Level 31: Air Slash (Replaces Gust)
+- Level 47: Psychic (Moved from Level 55)
+- Level 55: Bug Buzz (Moved from Level 59)
+
+#059 - Arcanine:
+
+- Level 1: Crunch
+- Level 1: Flare Blitz
+
+#060 - Poliwag:
+
+- Level 1: DoubleSlap (Moved from Level 15)
+- Level 15: Mud Shot (Moved from Level 28)
+- Level 28: Mud Bomb (Moved from Level 41) 
+
+#061 - Poliwhirl:
+
++ Change Evolution Method (Politoed): Level Up Holding King's Rock
+- Level 1: DoubleSlap (Moved from Level 15)
+- Level 15: Mud Shot (Moved from Level 32)
+- Level 32: Mud Bomb (Moved from Level 53) 
+
+#062 - Poliwrath:
+
+- Level 1: Wake-Up Slap
+
+#069 - Bellsprout:
+
+- Level 15: Stun Spore (Moved from Level 17)
+- Level 17: Razor Leaf (Moved from Level 39)
+- Level 35: Poison Jab
+- Level 39: Gastro Acid (Moved from Level 35)
+
+#070 - Weepinbell:
+
+- Level 15: Stun Spore (Moved from Level 17)
+- Level 17: Razor Leaf (Moved from Level 39)
+- Level 35: Poison Jab
+- Level 39: Gastro Acid (Moved from Level 35)
+
+#071 - Victreebel:
+
+- Level 1: Poison Jab
+- Level 1: Leaf Blade (Moved from Level 47)
+
+#079 - Slowpoke:
+
++ Change Evolution Method (Slowking): Level Up Holding King's Rock
+
+#080 - Slowbro:
+
+- Level 1: Psychic
+
+#084 - Doduo:
+
+- Level 1: Rage (Moved from Level 10)
+- Level 10: Double Kick
+- Level 12: Uproar (Moved from Level 23)
+- Level 23: Pluck
+- Level 30: Double Hit (Moved from Level 32)
+- Level 32: Jump Kick
+	
+#085 - Dodrio:
+
+- Level 1: Drill Peck (Replaces Pluck)
+- Level 10: Double Kick (Replaces Rage)
+- Level 12: Uproar (Moved from Level 23)
+- Level 23: Pluck
+- Level 31: Tri Attack (Moved from Level 34)
+- Level 34: Jump Kick
+
+#091 - Cloyster:
+
+- Level 1: Bullet Seed
+- Level 1: Pin Missile
+- Level 1: Rock Blast
+- Level 1: Spike Cannon (Moved from Level 40)
+- Level 40: Ice Shard
+
+#096 - Drowzee:
+
+- Level 37: Psychic (Moved from Level 40)
+- Level 40: Swagger (Moved from Level 37)
+
+#097 - Hypno:
+
+- Level 45: Psychic (Moved from Level 50)
+- Level 50: Swagger (Moved from Level 45)
+
+#098 - Krabby:
+
+- Level 1: Protect (Moved from Level 29)
+- Level 29: Crabhammer (Moved from Level 41)
+- Level 41: Flail (Moved from Level 45)
+
+#099 - Kingler:
+
+- Level 1: Protect (Moved from Level 32)
+- Level 32: Crabhammer (Moved from Level 56)
+- Level 56: Flail (Moved from Level 63)
+
+#102 - Exeggcute:
+
+- Level 1: Absorb
+- Level 17: Mega Drain (Replaces Bullet Seed)
+- Level 19: PoisonPowder (Moved from Level 21)
+- Level 21: Sleep Powder (Moved from Level 23)
+- Level 23: Confusion (Moved from Level 27)
+- Level 27: Giga Drain
+- Level 37: Psychic (Moved from Level 47)
+- Level 47: Natural Gift (Moved from Level 37) 
+
+#103 - Exeggutor:
+
+- Level 1: Giga Drain
+- Level 1: Psychic (Replaces Confusion) 
+
+#106 - Hitmonlee:
+
+- Level 1: Double Kick
+- Level 1: Revenge
+- Level 1: Focus Energy (Moved from Level 21)
+- Level 1: Pursuit
+- Level 4: Foresight (Moved from Level 37)
+- Level 8: Feint (Moved from Level 25)
+- Level 12: Endure (Moved from Level 45)
+- Level 16: Meditate (Moved from Level 5)
+- Level 20: Rolling Kick (Moved from Level 9)
+- Level 20: Jump Kick (Moved from Level 13)
+- Level 24: Sucker Punch
+- Level 28: Brick Break (Moved from Level 17)
+- Level 32: Blaze Kick (Moved from Level 41)
+- Level 36: Close Combat (Moved from Level 53)
+- Level 40: Mega Kick (Moved from Level 49)
+- Level 44: Hi Jump Kick (Moved from Level 29)
+- Level 48: Mind Reader (Moved from Level 33)
+- Level 52: Reversal (Moved from Level 57)
+
+#107 - Hitmonchan:
+
+- Level 1: Comet Punch (Moved from Level 16)
+- Level 1: Revenge
+- Level 1: Focus Energy
+- Level 4: Foresight
+- Level 8: Feint (Moved from Level 21)
+- Level 12: Vacuum Wave (Moved from Level 26)
+- Level 16: Agility (Moved from Level 6)
+- Level 20: Mach Punch (Moved from Level 16)
+- Level 20: Bullet Punch (Moved from Level 16)
+- Level 24: Drain Punch
+- Level 28: Pursuit (Moved from Level 11)
+- Level 32: Fire Punch (Moved from Level 31)
+- Level 32: Ice Punch (Moved from Level 31)
+- Level 32: ThunderPunch (Moved from Level 31)
+- Level 36: Close Combat (Moved from Level 56)
+- Level 40: Mega Punch (Moved from Level 41)
+- Level 44: Sky Uppercut (Moved from Level 36)
+- Level 48: Detect (Moved from Level 46)
+- Level 52: Counter (Moved from Level 51)
+
+#116 - Horsea:
+
+- Level 1: Twister (Moved from Level 26)
+- Level 26: DragonBreath
+
+#117 - Seadra:
+
++ Change Evolution Method: Use Dragon Scale
+- Level 1: Twister (Moved from Level 26)
+- Level 26: DragonBreath
+
+#120 - Staryu:
+
+- Level 1: Rapid Spin (Moved from Level 10)
+- Level 10: Camouflage (Moved from Level 19)
+- Level 19: Psybeam 
+- Level 37: Psychic (Replaces Gyro Ball)
+
+#124 - Jynx:
+
+- Level 1: Icy Wind (Replaces Powder Snow)
+
+#139 - Omastar:
+
+- Level 1: Rock Blast (Moved from Level 56)
+- Level 1: Hydro Pump (Moved from Level 67)
+
+#141 - Kabutops:
+
+- Level 1: Giga Drain (Replaces Absorb)
+- Level 1: Wring Out (Moved from Level 63)
+- Level 1: Night Slash (Moved from Level 72)
+
+#142 - Aerodactyl:
+
+- Level 1: Giga Impact (Moved from Level 73)
+- Level 41: Rock Slide (Moved from Level 65, Replaces Take Down)
+
+#143 - Articuno:
+
+- Level 1: Blizzard (Moved from Level 71)
+- Level 1: Sheer Cold (Moved from Level 78)
+- Level 1: Hail (Moved from Level 85)
+
+#144 - Zapdos:
+
+- Level 1: Drill Peck (Moved from Level 71)
+- Level 1: Thunder (Moved from Level 78)
+- Level 1: Rain Dance (Moved from Level 85)
+
+#145 - Moltres:
+
+- Level 1: SolarBeam (Moved from Level 71)
+- Level 1: Sky Attack (Moved from Level 78)
+- Level 1: Sunny Day (Moved from Level 85)
+
+#150 - Mewtwo:
+
+- Level 1: Psychic (Replaces Confusion)
+- Level 1: Me First (Moved from Level 79)
+- Level 1: Recover (Moved from Level 86)
+- Level 1: Safeguard (Moved from Level 93)
+- Level 1: Aura Sphere (Moved from Level 100)
+
+Generation II
+
+#152 - Chikorita:
+
+- Level 12: Leech Seed
+- Level 14: Sleep Powder 
+- Level 36: Giga Drain
+
+#153 - Bayleef:
+
+- Level 12: Leech Seed 
+- Level 14: Sleep Powder 
+- Level 42: Giga Drain
+
+#154 - Meganium:
+
+- Level 12: Leech Seed 
+- Level 14: Sleep Powder
+- Level 48: Giga Drain
+
+#155 - Cyndaquil:
+
+- Level 25: Rollout (Moved from Level 40)
+- Level 40: Eruption (Moved from Level 49)
+
+#156 - Quilava:
+
+- Level 27: Rollout (Moved from Level 46)
+- Level 46: Eruption (Moved from Level 57)
+
+#157 - Typhlosion:
+
+- Level 27: Rollout (Moved from Level 46)
+- Level 46: Eruption (Moved from Level 57)
+
+#158 - Totodile:
+
+- Level 22: Slash (Moved from Level 29, Replaces Flail)
+- Level 29: Aqua Tail (Moved from Level 41)
+- Level 41: Hydro Pump (Moved from Level 48)
+
+#159 - Croconaw:
+
+- Level 24: Slash (Moved from Level 33, Replaces Flail)
+- Level 33: Aqua Tail (Moved from Level 48)
+- Level 48: Hydro Pump (Moved from Level 57)
+
+#160 - Feraligatr:
+
+- Level 1: Ice Punch
+- Level 1: Dragon Dance
+- Level 24: Slash (Moved from Level 37, Replaces Flail)
+- Level 37: Aqua Tail (Moved from Level 58)
+- Level 58: Hydro Pump (Moved from Level 71)
+
+#161 - Sentret:
+
+- Level 10: Rollout
+- Level 19: Slam (Moved from Level 25)
+- Level 25: Follow Me (Moved from Level 19)
+
+#162 - Furret:
+
+- Level 10: Rollout
+- Level 21: Slam (Moved from Level 28)
+- Level 28: Follow Me (Moved from Level 21)
+
+#165 - Ledyba:
+
++ Huge Power (Replaces Swarm)
+- Level 1: Supersonic (Moved from Level 6)
+- Level 1: Comet Punch (Moved from Level 9)
+- Level 6: Bug Bite
+- Level 9: Aerial Ace
+
+#166 - Ledian:
+
++ Huge Power (Replaces Swarm)
+- Level 1: Supersonic (Moved from Level 6)
+- Level 1: Comet Punch (Moved from Level 9)
+- Level 6: Bug Bite
+- Level 9: Aerial Ace
+- Level 24: ThunderPunch
+- Level 24: Ice Punch
+- Level 29: Baton Pass (Moved from Level 24)
+
+#167 - Spinarak:
+
++ Sniper (Replaces Swarm)
+- Level 1: Constrict (Moved from Level 8)
+- Level 1: Leech Life (Moved from Level 12)
+- Level 8: Fury Swipes (Moved from Level 22)
+- Level 12: Bug Bite
+- Level 22: Cross Poison
++ TM81: X-Scissor 
++ TM89: U-turn
+
+#168 - Ariados:
+
++ Sniper (Replaces Swarm)
+- Level 1: X-Scissor
+- Level 1: Leech Life (Moved from Level 12)
+- Level 8: Fury Swipes (Moved from Level 23)
+- Level 12: Bug Bite
+- Level 23: Cross Poison
++ TM81: X-Scissor
++ TM89: U-turn
+
+#177 - Natu:
+
+- Level 1: Teleport (Moved from Level 9)
+- Level 1: Lucky Chant (Moved from Level 12)
+- Level 1: Me First (Moved from Level 20)
+- Level 9: Confusion
+- Level 12: Air Cutter
+- Level 20: Confuse Ray (Moved from Level 23) 
+- Level 23: Extrasensory
+
+#178 - Xatu:
+
+- Level 1: Teleport (Moved from Level 9)
+- Level 1: Lucky Chant (Moved from Level 12)
+- Level 1: Me First (Moved from Level 20)
+- Level 1: Air Slash
+- Level 9: Confusion
+- Level 12: Air Cutter
+- Level 20: Confuse Ray (Moved from Level 23) 
+- Level 23: Extrasensory
+
+#182 - Bellossom:
+
+- Level 1: Sleep Powder
+- Level 1: Giga Drain (Replaces Mega Drain)
+- Level 1: Weather Ball
+
+#187 - Hoppip:
+
+- Level 1: Absorb
+- Level 1: Tackle (Moved from Level 10)
+- Level 10: Bullet Seed (Moved from Level 19)
+- Level 12: Stun Spore (Moved from Level 14)
+- Level 14: Leech Seed (Moved from Level 22)
+- Level 19: Mega Drain (Moved from Level 25)
+- Level 22: Bounce (Moved from Level 40)
+- Level 25: Giga Drain (Moved from Level 37)
+- Level 37: Sunny Day
+- Level 40: Memento (Moved from Level 43)
+
+#188 - Skiploom:
+
+- Level 1: Absorb
+- Level 10: Bullet Seed (Moved from Level 20)
+- Level 12: Stun Spore (Moved from Level 14)
+- Level 14: Leech Seed (Moved from Level 24)
+- Level 20: Mega Drain (Moved from Level 28)
+- Level 24: Bounce (Moved from Level 48)
+- Level 28: Giga Drain (Moved from Level 44)
+- Level 44: Sunny Day
+- Level 48: Memento (Moved from Level 52)
+
+#189 - Jumpluff:
+
+- Level 1: Absorb
+- Level 10: Bullet Seed (Moved from Level 20)
+- Level 12: Stun Spore (Moved from Level 14)
+- Level 14: Leech Seed (Moved from Level 24)
+- Level 20: Mega Drain (Moved from Level 28)
+- Level 24: Bounce (Moved from Level 48)
+- Level 28: Giga Drain (Moved from Level 44)
+- Level 44: Sunny Day
+- Level 48: Memento (Moved from Level 52)
+
+#191 - Sunkern:
+
+- Level 1: Endeavor (Moved from Level 21)
+- Level 21: Giga Drain (Moved from Level 41)
+- Level 23: Sunny Day (Moved from Level 37)
+- Level 25: Razor Leaf (Moved from Level 29)
+- Level 29: Weather Ball
+- Level 37: Worry Seed (Moved from Level 25)
+- Level 41: Seed Bomb (Moved from Level 45)
+
+#192 - Sunflora:
+
+- Level 21: Giga Drain (Replaces Bullet Seed)
+- Level 23: Sunny Day (Moved from Level 37)
+- Level 25: Razor Leaf (Moved from Level 29)
+- Level 29: Weather Ball
+- Level 37: Worry Seed (Moved from Level 25)
+
+#199 - Slowking:
+
+- Level 43: Psychic (Moved from Level 48)
+- Level 48: Swagger (Moved from Level 43)
+ 
+#204 - Pineco:
+
+- Level 20: Rollout (Replaces Bide)
+- Level 23: Payback (Moved from Level 31)
+- Level 31: Natural Gift (Moved from Level 23)
+
+#205 - Forretress:
+
+- Level 1: Magnet Rise (Moved from Level 62)
+- Level 1: Zap Cannon (Moved from Level 67)
+- Level 1: Flash Cannon
+- Level 20: Rollout (Replaces Bide)
+- Level 23: Payback (Moved from Level 33, Replaces Natural Gift)
+- Level 33: Iron Head
+
+#206 - Dunsparce:
+
+- Level 1: Defense Curl (Moved from Level 5)
+- Level 5: Spite (Moved from Level 21)
+- Level 21: Take Down (Moved from Level 37)
+- Level 37: Body Slam
+
+#211 - Qwilfish:
+
+- Level 5: Pin Missile (Moved from Level 37)
+- Level 33: Poison Jab (Moved from Level 49)
+- Level 37: Brine (Moved from Level 33)
+- Level 41: Aqua Tail (Moved from Level 45)
+- Level 45: Hydro Pump (Moved from Level 57)  
+- Level 49: Toxic
+
+#213 - Shuckle:
+
+- Level 1: Wrap (Moved from Level 22)
+- Level 22: Rollout
+ 
+#217 - Ursaring:
+
+- Level 1: Hammer Arm (Moved from Level 67)
+
+#218 - Slugma:
+
++ Change Evolution Method: Evolve at Level 24
+- Level 1: Harden (Moved from Level 16)
+- Level 16: AncientPower (Moved from Level 26)
+- Level 26: Lava Plume (Moved from Level 38)
+- Level 38: Earth Power (Moved from Level 56) 
+
+#219 - Magcargo:
+
+- Level 1: Harden (Moved from Level 16)
+- Level 16: AncientPower (Moved from Level 26)
+- Level 26: Lava Plume (Moved from Level 40)
+- Level 40: Earth Power (Moved from Level 66)
+
+#222 - Corsola:
+
++ Serene Grace (Replaces Hustle)
+- Level 1: Harden (Moved from Level 4)
+- Level 1: Mirror Coat (Moved from Level 48)
+- Level 4: Spike Cannon (Moved from Level 40)
+- Level 8: Bubblebeam (Moved from Level 25)
+- Level 25: Water Pulse
+- Level 40: Power Gem (Moved from Level 44)
+- Level 44: Earth Power (Moved from Level 53)
+
+#225 - Delibird:
+
+- Level 1: Drill Peck
+
+#277 - Skarmory:
+
+- Level 1: Air Slash (Moved from Level 39)
+- Level 39: Drill Peck
+
+#230 - Kingdra:
+
+- Level 1: Dragon Pulse (Moved from Level 57)
+- Level 1: Twister (Moved from Level 26)
+- Level 26: DragonBreath
+
+#231 - Phanpy:
+
+- Level 10: Magnitude (Replaces Take Down)
+
+#232 - Donphan:
+
+- Level 1: Fury Attack (Moved from Level 25)
+- Level 25: Horn Attack (Moved from Level 1)
+- Level 39: Earthquake (Moved from Level 46)
+- Level 46: Giga Impact (Moved from Level 54)
+
+#237 - Hitmontop:
+
+- Level 1: Pursuit (Moved from Level 10)
+- Level 1: Quick Attack (Moved from Level 4)
+- Level 1: Revenge
+- Level 1: Focus Energy (Moved from Level 6)
+- Level 4: Foresight
+- Level 8: Feint (Moved from Level 33)
+- Level 12: Rapid Spin (Moved from Level 24)
+- Level 16: Agility (Moved from Level 37)
+- Level 20: Rolling Kick (Moved from Level 1)
+- Level 20: Triple Kick (Moved from Level 19)
+- Level 24: Sucker Punch
+- Level 28: Bullet Punch
+- Level 28: Mach Punch
+- Level 32: Dig
+- Level 36: Close Combat (Moved from Level 53)
+- Level 40: Gyro Ball (Moved from Level 42)
+- Level 44: Endeavor (Moved from Level 55)
+- Level 48: Detect (Moved from Level 46)
+- Level 52: Counter (Moved from Level 28)
+
+#238 - Smoochum:
+
+- Level 1: Lucky Chant (Moved from Level 28)
+- Level 28: Icy Wind
+
+#243 - Raikou:
+
+- Level 1: Roar (Moved from Level 15)
+- Level 1: Rain Dance (Moved from Level 71)
+- Level 1: Thunder (Moved from Level 85)
+- Level 15: Thunder Fang (Moved from Level 50)
+- Level 50: Extrasensory (Moved from Level 64)
+- Level 64: Calm Mind (Moved from Level 78)
+
+#244 - Entei:
+
+- Level 1: Roar (Moved from Level 15)
+- Level 1: Flare Blitz
+- Level 1: Eruption (Moved from Level 85)
+- Level 15: Fire Fang (Moved from Level 50)
+- Level 50: Extrasensory (Moved from Level 64)
+- Level 64: Calm Mind (Moved from Level 78)
+
+#245 - Suicune:
+
+- Level 1: Rain Dance (Moved from Level 15)
+- Level 1: Hydro Pump (Moved from Level 71)
+- Level 1: Blizzard (Moved from Level 85)
+- Level 15: Ice Fang (Moved from Level 50)
+- Level 50: Extrasensory (Moved from Level 64)
+- Level 64: Calm Mind (Moved from Level 78)
+
+#246 - Larvitar:
+
+- Level 1: Sandstorm (Moved from Level 5)
+- Level 1: Screech (Moved from Level 10)
+- Level 5: Bite
+- Level 10: Magnitude
+
+#247 - Pupitar:
+
+- Level 10: Magnitude (Replaces Screech)
+
+#248 - Tyranitar:
+
+- Level 1: Dragon Dance
+- Level 10: Magnitude (Replaces Screech)
+
+#249 - Lugia:
+
+- Level 1: Natural Gift (Moved from Level 85)
+- Level 1: Calm Mind (Moved from Level 93)
+- Level 1: Sky Attack (Moved from Level 99)
+
+#250 - Ho-Oh:
+
+- Level 1: Natural Gift (Moved from Level 85)
+- Level 1: Calm Mind (Moved from Level 93)
+- Level 1: Sky Attack (Moved from Level 99)
+
+#251 - Celebi:
+
+- Level 1: Leaf Storm (Moved from Level 82)
+- Level 1: Perish Song (Moved from Level 91)
+
+Generation III
+
+#349 - Feebas:
+
++ Change Evolution Method: High Friendship
+
+#366 - Clamperl:
+
++ Change Evolution Method: Use DeepSeaTooth
++ Change Evolution Method: Use DeepSeaScale
+
+#371 - Bagon:
+
+- Level 1: Bite (Moved from Level 5)
+- Level 1: Leer (Moved from Level 10)
+- Level 5: Ember (Moved from Level 25)
+- Level 10: DragonBreath (Moved from Level 31)
+- Level 25: Crunch (Moved from Level 46)
+- Level 31: Dragon Claw (Moved from Level 50)
+- Level 46: Flamethrower
+- Level 50: Dragon Dance
+
+#372 - Shelgon:
+
+- Level 5: Ember (Moved from Level 25, Replaces Bite)
+- Level 10: DragonBreath (Moved from Level 32, Replaces Leer)
+- Level 25: Crunch (Moved from Level 50)
+- Level 32: Dragon Claw (Moved from Level 55)
+- Level 50: Flamethrower
+- Level 55: Dragon Dance
+
+#373 - Salamence:
+
+- Level 5: Ember (Moved from Level 25, Replaces Bite)
+- Level 10: DragonBreath (Moved from Level 32, Replaces Leer)
+- Level 25: Crunch (Moved from Level 53)
+- Level 32: Dragon Claw (Moved from Level 61)
+- Level 53: Flamethrower
+- Level 61: Dragon Dance
+

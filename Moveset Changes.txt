@@ -1,0 +1,907 @@
+Moveset Changes:
+
+#003 - Torterra:
+
+- Level 1: Seed Bomb
+
+#007 - Piplup:
+
+- Level 25: Aerial Ace (Replaces Fury Attack)
+
+#008 - Prinplup:
+
+- Level 28: Aerial Ace (Replaces Fury Attack)
+
+#009 - Empoleon:
+
+- Level 1: Flash Cannon
+- Level 28: Aerial Ace (Replaces Fury Attack)
+
+#015 - Kricketot:
+
+- Level 6: Leech Life
+- Level 10: Bug Bite (Moved from Level 16)
+
+#016 - Kricketune:
+
+- Level 1: Bug Bite
+- Level 6: Leech Life (Moved from Level 14)
+- Level 14: Sing (Moved from Level 18)
+- Level 18: Slash (Moved from Level 26)
+- Level 26: Night Slash (Moved from Level 42)
+- Level 42: Bug Buzz (Moved from Level 46)
+- Level 46: Perish Song (Moved from Level 50)
+
+#019 - Luxray:
+
+- Level 1: Fire Fang
+- Level 1: Ice Fang
+
+#021 - Kadabra:
+
++ Change Evolution Method: Evolve at Level 40
+
+#024 - Gyarados:
+
+- Level 1: Twister (Moved from Level 29)
+- Level 29: Thrash (Moved from Level 1)
+- Level 47: Bounce (Moved from Level 1)
+- Level 50: Hyper Beam (Moved from Level 47)
+
+#027 - Roserade:
+
+- Level 1: Growth
+- Level 1: Stun Spore
+- Level 1: Leech Seed
+- Level 1: GrassWhistle
+- Level 1: Giga Drain (Replaces Mega Drain)
+- Level 1: Toxic Spikes
+- Level 1: Ingrain
+- Level 1: Toxic
+
+#028 - Zubat:
+
+- Level 23: Poison Fang (Moved from Level 33)
+- Level 33: Cross Poison
+
+#029 - Golbat:
+
+- Level 25: Poison Fang (Moved from Level 39)
+- Level 39: Cross Poison
+
+#030 - Crobat:
+
+- Level 25: Poison Fang (Moved from Level 39)	
+- Level 39: Cross Poison
+
+#032 - Graveler:
+
++ Change Evolution Method: Evolve at Level 40
+
+#034 - Onix:
+
++ Change Evolution Method: Level Up While Holding Metal Coat
+- Level 9: Rock Tomb (Moved from Level 17, Replaces Rock Throw)
+- Level 17: Magnitude
+- Level 22: Rock Polish (Moved from Level 30)
+- Level 30: Curse (Moved from Level 38)
+- Level 38: Earthquake
+
+#035 - Steelix:
+
+- Level 9: Rock Tomb (Moved from Level 17, Replaces Rock Throw)
+- Level 17: Magnitude
+- Level 22: Rock Polish (Moved from Level 30)
+- Level 30: Curse (Moved from Level 38)
+- Level 38: Earthquake
+
+#036 - Cranidos:
+
+- Level 1: Scary Face (Moved from Level 19)
+- Level 19: AncientPower (Moved from Level 28)
+- Level 28: Rock Slide
+- Level 37: Head Smash (Moved from Level 43)
+- Level 43: Screech (Moved from Level 37)
+
+#037 - Rampardos:
+
+- Level 1: Scary Face (Moved from Level 19)
+- Level 19: AncientPower (Moved from Level 28)
+- Level 28: Rock Slide
+- Level 43: Head Smash (Moved from Level 52)
+- Level 52: Screech (Moved from Level 43)
+
+#038 - Shieldon:
+
+- Level 1: Iron Defense (Moved from Level 19)
+- Level 19: AncientPower (Moved from Level 28)
+- Level 28: Rock Slide
+
+#039 - Bastiodon:
+
+- Level 1: Iron Defense (Moved from Level 19)
+- Level 19: AncientPower (Moved from Level 28)
+- Level 28: Rock Slide
+
+#041 - Machoke:
+
++ Change Evolution Method: Evolve at Level 40
+
+#043 - Psyduck:
+
+- Level 27: Zen Headbutt (Moved from Level 40, Replaces Fury Swipes)
+- Level 40: Psychic
+
+#044 - Golduck:
+
+- Level 27: Zen Headbutt (Moved from Level 44, Replaces Fury Swipes)
+- Level 44: Psychic
+
+#046 - Wormadam (Plant Cloak):
+
+- Level 1: Bug Buzz
+- Level 1: Hidden Power (Moved from Level 20)
+- Level 20: Razor Leaf (Moved from Level 26)
+- Level 26: Growth (Moved from Level 29)
+- Level 29: Giga Drain
+- Level 35: Energy Ball
+- Level 38: Captivate (Moved from Level 35, Replaces Flail)
+
+#046 - Wormadam (Sandy Cloak):
+
+- Level 1: Bug Buzz
+- Level 1: Hidden Power (Moved from Level 20)
+- Level 20: Rock Blast (Moved from Level 26)
+- Level 26: Harden (Moved from Level 29)  
+- Level 29: Earth Power
+- Level 35: Earthquake
+- Level 38: Captivate (Moved from Level 35, Replaces Flail)
+
+#046 - Wormadam (Trash Cloak):
+
+- Level 1: Bug Buzz
+- Level 1: Hidden Power (Moved from Level 20)
+- Level 20: Mirror Shot (Moved from Level 26)
+- Level 26: Metal Sound (Moved from Level 29)
+- Level 29: Metal Burst
+- Level 35: Flash Cannon
+- Level 38: Captivate (Moved from Level 35, Replaces Flail)
+
+#047 - Mothim:
+
+- Level 1: Hidden Power (Moved from Level 20)
+- Level 20: Gust (Moved from Level 26)
+- Level 26: PoisonPowder (Moved from Level 29)
+- Level 29: Air Cutter
+
+#050 - Beautifly:
+
+- Level 10: Gust (Moved from Level 13)
+- Level 13: Stun Spore (Moved from Level 17)
+- Level 17: Morning Sun (Moved from Level 20)
+- Level 20: Air Cutter
+- Level 27: Silver Wind (Moved from Level 34)
+- Level 34: Whirlwind (Moved from Level 27)
+- Level 45: Air Slash
+
+#052 - Dustox:
+
+- Level 10: Gust (Moved from Level 13)
+- Level 13: Protect (Moved from Level 17)
+- Level 17: Moonlight (Moved from Level 20)
+- Level 20: Toxic (Moved from Level 38)
+- Level 27: Silver Wind (Moved from Level 34)
+- Level 34: Whirlwind (Moved from Level 27)
+- Level 38: Psychic
+- Level 45: Sludge Bomb
+
+#054 - Vespiquen:
+
+- Level 13: Fury Swipes (Moved from Level 19)
+- Level 19: Slash (Moved from Level 31)
+- Level 27: Air Slash
+- Level 31: Toxic (Moved from Level 27)
+- Level 37: Defend Order (Moved from Level 13)
+
+#055 - Buizel:
+
+- Level 1: Quick Attack (Moved from Level 3)
+- Level 3: Water Gun (Moved from Level 6)
+- Level 6: Pursuit (Moved from Level 10)
+- Level 10: Aqua Jet (Moved from Level 21)
+- Level 12: Swift (Moved from Level 15)
+- Level 15: Bite
+- Level 19: Water Pulse
+- Level 21: SonicBoom (Moved from Level 1)
+- Level 24: Agility (Moved from Level 28)
+- Level 28: Double Hit
+- Level 31: Aqua Tail
+- Level 35: Whirlpool (Moved from Level 36)
+- Level 38: Razor Wind (Moved from Level 45)
+- Level 42: Hydro Pump
+
+#056 - Floatzel:
+
+- Level 3: Water Gun (Moved from Level 6, Replaces Quick Attack)
+- Level 6: Pursuit (Moved from Level 10)
+- Level 10: Aqua Jet (Moved from Level 21)
+- Level 12: Swift (Moved from Level 15)
+- Level 15: Bite
+- Level 19: Water Pulse
+- Level 21: SonicBoom (Moved from Level 1)
+- Level 24: Agility (Moved from Level 29)
+- Level 30: Double Hit
+- Level 35: Aqua Tail
+- Level 44: Razor Wind (Moved from Level 50)
+- Level 48: Hydro Pump
+
+#058 - Cherubi:
+
+- Level 1: Helping Hand (Moved from Level 13)
+- Level 13: Magical Leaf (Moved from Level 19)
+- Level 19: Take Down (Moved from Level 31)
+- Level 31: Giga Drain
+
+#059 - Cherrim:
+
+- Level 1: Energy Ball
+- Level 1: Weather Ball
+- Level 1: Helping Hand (Moved from Level 13)
+- Level 13: Magical Leaf (Moved from Level 19)
+- Level 19: Take Down (Moved from Level 35)
+- Level 35: Giga Drain
+
+#061 - Gastrodon:
+
+- Level 1: Earth Power
+
+#062 - Heracross:
+
+- Level 31: Bug Bite (Replaces Take Down)
+
+#064 - Ambipom:
+
++ TM60: Drain Punch
+
+#065 - Drifloon:
+
+- Level 1: Astonish (Moved from Level 6)
+- Level 6: Gust (Moved from Level 11)
+- Level 11: Payback (Moved from Level 17)
+- Level 17: Ominous Wind (Moved from Level 30)
+- Level 30: Air Cutter 
+
+#066 - Drifblim:
+
+- Level 1: Air Slash (Replaces Gust)
+- Level 6: Gust (Moved from Level 11, Replaces Astonish)
+- Level 11: Payback (Moved from Level 17)
+- Level 17: Ominous Wind (Moved from Level 32)
+- Level 32: Air Cutter
+
+#070 - Haunter:
+
++ Change Evolution Method: Evolve at Level 40
+
+#072 - Misdreavus:
+
+- Level 32: Shadow Ball (Moved from Level 37)
+- Level 37: Payback (Moved from Level 32)
+
+#073 - Mismagius:
+
+- Level 1: Shadow Ball
+- Level 1: Power Gem
+
+#074 - Murkrow:
+
+- Level 1: Pursuit (Moved from Level 5)
+- Level 5: Assurance (Moved from Level 25)
+- Level 25: Faint Attack (Moved from Level 35)
+- Level 35: Night Slash
+
+#075 - Honchrow:
+
+- Level 1: Drill Peck
+
+#076 - Glameow:
+
+- Level 29: Slash (Moved from Level 37)
+- Level 32: Assist (Moved from Level 29)
+- Level 37: Captivate (Moved from Level 32)
+
+#077 - Purugly:
+
+- Level 1: Sucker Punch
+- Level 29: Slash (Moved from Level 37)
+- Level 32: Assist (Moved from Level 29)
+- Level 37: Captivate (Moved from Level 32)
+
+#079 - Seaking:
+
+- Level 1: Agility (Moved from Level 56) 
+- Level 1: Megahorn (Moved from Level 63)
+
+#082 - Chingling:
+
+- Level 22: Extrasensory
+- Level 25: Last Resort (Moved from Level 22)
+
+#083 - Chimecho:
+
+- Level 22: Extrasensory (Moved from Level 46, Replaces Take Down)
+- Level 46: Healing Wish (Moved from Level 49)
+
+#084 - Stunky:
+
+- Level 1: Feint (Moved from Level 18)
+- Level 18: Bite
+
+#085 - Skuntank:
+
+- Level 1: Poison Jab
+- Level 1: Feint (Moved from Level 18)
+- Level 18: Bite
+
+#086 - Meditite:
+
+- Level 1: Feint (Moved from Level 22)
+- Level 18: Force Palm (Moved from Level 29)
+- Level 22: Mind Reader (Moved from Level 18)
+- Level 29: Zen Headbutt
+
+#087 - Medicham:
+
+- Level 1: Feint (Moved from Level 22)
+- Level 18: Force Palm (Moved from Level 29)
+- Level 22: Mind Reader (Moved from Level 18)
+- Level 29: Zen Headbutt
+
+#088 - Bronzor:
+
+- Level 1: Imprison (Moved from Level 12)
+- Level 12: Faint Attack (Moved from Level 41)
+- Level 41: Flash Cannon
+
+#089 - Bronzong:
+
+- Level 12: Faint Attack (Moved from Level 50, Replaces Imprison)
+- Level 50: Flash Cannon
+
+#091 - Rapidash:
+
+- Level 1: Flare Blitz
+
+#093 - Sudowoodo:
+
+- Level 1: Head Smash
+
+#102 - Chatot:
+
+- Level 1: Hyper Voice
+
+#103 - Pichu:
+
++ HM03: Surf
+
+#104 - Pikachu:
+
++ HM03: Surf
+
+#105 - Raichu:
+
++ HM03: Surf
+
+#106 - Hoothoot:
+
+- Level 15: Air Cutter
+
+#107 - Noctowl:
+
+- Level 1: Roost
+- Level 1: Extrasensory
+- Level 15: Air Cutter
+
+#109 - Gible:
+
+- Level 1: Sand Tomb (Moved from Level 19)
+- Level 19: Dig (Moved from Level 31)
+- Level 31: Earthquake
+
+#110 - Gabite:
+
+- Level 1: Sand Tomb (Moved from Level 19)
+- Level 19: Dig (Moved from Level 40)
+- Level 40: Earthquake
+
+#111 - Garchomp:
+
+- Level 1: Sand Tomb (Moved from Level 19)
+- Level 19: Dig (Moved from Level 40)
+- Level 40: Earthquake
+
+#112 - Munchlax:
+
+- Level 1: Lick (Moved from Level 12)
+- Level 12: Bite
+
+#113 - Snorlax:
+
+- Level 1: Lick (Moved from Level 12)
+- Level 12: Bite
+
+#120 - Pelipper:
+
+- Level 1: Air Slash (Replaces Wing Attack)
+- Level 1: Rain Dance (Replaces Water Sport)
+
+#122 - Hippopotas:
+
+- Level 1: Sand Tomb (Moved from Level 25)
+- Level 19: Dig
+- Level 25: Crunch (Moved from Level 31)
+- Level 31: Slack Off
+
+#123 - Hippowdon:
+
+- Level 1: Sand Tomb (Moved from Level 25)
+- Level 19: Dig
+- Level 25: Crunch (Moved from Level 31)
+- Level 31: Slack Off
+
+#125 - Marill:
+
+- Level 25: Aqua Tail (Moved from Level 37)
+- Level 37: Superpower
+
+#126 - Azumarill:
+
+- Level 1: Ice Punch
+- Level 30: Aqua Tail (Moved from Level 47)
+- Level 47: Superpower
+
+#127 - Skorupi:
+
+- Level 1: Pin Missile (Moved from Level 12)
+- Level 12: Bug Bite (Moved from Level 34)
+- Level 34: Poison Fang (Moved from Level 39)
+- Level 39: Crunch (Moved from Level 45)
+- Level 45: Cross Poison (Moved from Level 50)
+
+#128 - Drapion:
+
+- Level 1: Pin Missile (Moved from Level 12)
+- Level 12: Bug Bite (Moved from Level 34)
+- Level 34: Poison Fang (Moved from Level 39)
+- Level 39: Crunch (Moved from Level 49)
+- Level 49: Cross Poison (Moved from Level 58)
+
+#129 - Croagunk:
+
+- Level 36: Poison Jab (Moved from Level 38)
+- Level 38: Nasty Plot (Moved from Level 36)
+
+#130 - Toxicroak:
+
+- Level 36: Poison Jab (Moved from Level 41)
+- Level 41: Nasty Plot (Moved from Level 36)
+
+#131 - Carnivine:
+
+- Level 1: Seed Bomb
+
+#134 - Finneon:
+
+- Level 1: Captivate (Moved from Level 26)
+- Level 1: Whirlpool (Moved from Level 38)
+- Level 26: Air Cutter
+- Level 38: Silver Wind (Moved from Level 49)
+- Level 49: Hydro Pump
+
+#135 - Lumineon:
+
+- Level 1: Air Slash
+- Level 1: Captivate (Moved from Level 26)
+- Level 1: Whirlpool (Moved from Level 42)
+- Level 26: Air Cutter
+- Level 42: Silver Wind (Moved from Level 59)
+- Level 59: Hydro Pump
+
+#139 - Milotic:
+
+- Level 53: Mirror Coat
+
+#141 - Mantine:
+
+- Level 31: Air Slash (Replaces Take Down)
+
+#144 - Sneasel:
+
+- Level 17: Ice Shard (Moved from Level 49)
+- Level 28: Metal Claw (Moved from Level 42)
+- Level 31: Ice Punch
+- Level 42: Night Slash
+
+#145 - Weavile:
+
+- Level 17: Ice Shard
+- Level 28: Metal Claw (Moved from Level 42)
+- Level 31: Ice Punch
+- Level 42: Embargo
+
+#153 - Gligar:
+
+- Level 1: Harden (Moved from Level 9)
+- Level 1: Quick Attack (Moved from Level 16)
+- Level 9: Fury Cutter (Moved from Level 20)
+- Level 16: Wing Attack
+- Level 20: Slash (Moved from Level 31)
+- Level 31: U-turn (Moved from Level 38)
+- Level 38: Earthquake
++ HM02: Fly
+
+#154 - Gliscor:
+
+- Level 1: Quick Attack (Moved from Level 16)
+- Level 9: Fury Cutter (Moved from Level 20)
+- Level 16: Wing Attack
+- Level 20: Night Slash (Moved from Level 31)
+- Level 31: U-turn (Moved from Level 38)
+- Level 38: Earthquake
++ HM02: Fly
+
+#155 - Nosepass:
+
+- Level 1: Harden (Moved from Level 7)
+- Level 1: Block (Moved from Level 19)
+- Level 7: Rock Throw (Moved from Level 13)
+- Level 13: Thunder Wave (Moved from Level 25)
+- Level 19: Rock Slide (Moved from Level 31)
+- Level 25: Power Gem (Moved from Level 49) 
+- Level 31: Discharge (Moved from Level 55)
+- Level 49: Stone Edge (Moved from Level 61)
+- Level 55: Zap Cannon (Moved from Level 67)
+- Level 61: Lock-On (Moved from Level 73) 
+- Level 67: Earth Power (Moved from Level 79)
+
+#156 - Probopass:
+
+- Level 1: Flash Cannon (Replaces Magnet Bomb)
+- Level 1: Earth Power
+- Level 7: Magnet Bomb (Moved from Level 13)
+- Level 13: Thunder Wave (Moved from Level 25)
+- Level 19: Rock Slide (Moved from Level 31)
+- Level 25: Power Gem (Moved from Level 49) 
+- Level 31: Discharge (Moved from Level 55)
+- Level 49: Stone Edge (Moved from Level 61)
+- Level 55: Zap Cannon (Moved from Level 67)
+- Level 61: Lock-On (Moved from Level 73) 
+- Level 67: Earth Power (Moved from Level 79)
+
+#163 - Eevee:
+
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Bite (Moved from Level 29)
+- Level 25: Baton Pass (Moved from Level 36)
+- Level 30: Take Down (Moved from Level 43)
+- Level 35: Last Resort (Moved from Level 50)
+- Level 40: Trump Card (Moved from Level 57)
+
+#164 - Vaporeon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Bite (Moved from Level 29)
+- Level 25: Aurora Beam (Moved from Level 36)
+- Level 30: Aqua Ring (Moved from Level 43)
+- Level 35: Muddy Water (Moved from Level 78)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Haze (Moved from Level 57)
+- Level 50: Acid Armor  (Moved from Level 64)
+- Level 55: Hydro Pump (Moved from Level 71)
+
+#165 - Jolteon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Pin Missile (Moved from Level 36)
+- Level 25: Double Kick (Moved from Level 29)
+- Level 30: Thunder Fang (Moved from Level 43)
+- Level 35: Discharge (Moved from Level 78)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Thunder Wave (Moved from Level 57)
+- Level 50: Agility (Moved from Level 64)
+- Level 55: Thunder (Moved from Level 71)
+
+#166 - Flareon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Bite (Moved from Level 29)
+- Level 25: Fire Spin (Moved from Level 36)
+- Level 30: Fire Fang (Moved from Level 43)
+- Level 35: Lava Plume (Moved from Level 78)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Flare Blitz
+- Level 50: Facade
+- Level 55: Fire Blast (Moved from Level 71)
+- Remove: Smog (Level 57), Scary Face (Level 64)
+
+#167 - Espeon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Swift (Moved from Level 29)
+- Level 25: Psybeam (Moved from Level 36)
+- Level 30: Future Sight (Moved from Level 43)
+- Level 35: Psychic (Moved from Level 64)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Psych Up (Moved from Level 57)
+- Level 50: Morning Sun (Moved from Level 71)
+- Level 55: Power Swap (Moved from Level 78)
+
+#168 - Umbreon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Confuse Ray (Moved from Level 29)
+- Level 25: Faint Attack (Moved from Level 36)
+- Level 30: Screech (Moved from Level 64)
+- Level 35: Assurance (Moved from Level 43)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Mean Look (Moved from Level 57)
+- Level 50: Moonlight (Moved from Level 71)
+- Level 55: Guard Swap (Moved from Level 78)
+
+#169 - Leafeon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Synthesis (Moved from Level 29)
+- Level 25: Magical Leaf (Moved from Level 36)
+- Level 30: Giga Drain (Moved from Level 43)
+- Level 35: Leaf Blade (Moved from Level 71)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: GrassWhistle (Moved from Level 57)
+- Level 50: Sunny Day (Moved from Level 64)
+- Level 55: Swords Dance (Moved from Level 78)
+
+#170 - Glaceon:
+
+- Level 1: Bite
+- Level 1: Baton Pass
+- Level 1: Covet
+- Level 5: Sand Attack (Moved from Level 8)
+- Level 10: Quick Attack (Moved from Level 22)
+- Level 20: Bite (Moved from Level 29)
+- Level 25: Ice Shard (Moved from Level 36)
+- Level 30: Ice Fang (Moved from Level 43)
+- Level 35: Blizzard (Moved from Level 71)
+- Level 40: Last Resort (Moved from Level 50)
+- Level 45: Mirror Coat (Moved from Level 57)
+- Level 50: Hail (Moved from Level 64)
+- Level 55: Barrier (Moved from Level 78)
+
+#171 - Swablu:
+
+- Level 1: Astonish (Moved from Level 5)
+- Level 1: Fury Attack (Moved from Level 13)
+- Level 5: Sing (Moved from Level 9)
+- Level 9: DragonBreath 
+- Level 13: Take Down (Moved from Level 28)
+- Level 28: Pluck
+- Level 32: Dragon Pulse (Moved from Level 45, Replaces Natural Gift) 
+- Level 45: Brave Bird 
+
+#172 - Altaria:
+
+- Level 1: Sky Attack (Moved from Level 70, Replaces Pluck)
+- Level 1: Fury Attack (Moved from Level 13)
+- Level 5: Sing (Moved from Level 9)
+- Level 9: DragonBreath (Moved from Level 35)
+- Level 13: Take Down (Moved from Level 28)
+- Level 28: Pluck
+- Level 32: Dragon Pulse (Moved from Level 54, Replaces Natural Gift) 
+- Level 54: Brave Bird
+
+#174 - Togetic:
+
+- Level 26: Air Cutter
+
+#175 - Togekiss:
+
+- Level 1: Yawn
+- Level 1: Encore
+- Level 1: Wish
+- Level 1: AncientPower
+- Level 1: Baton Pass
+- Level 1: Magical Leaf
+
+#178 - Magnemite:
+
+- Level 1: Supersonic (Moved from Level 11)
+- Level 11: Magnet Bomb (Moved from Level 30)
+- Level 30: Mirror Shot (Moved from Level 43)
+- Level 43: Flash Cannon
+
+#179 - Magneton:
+
+- Level 11: Magnet Bomb (Moved from Level 30)
+- Level 30: Mirror Shot (Moved from Level 46)
+- Level 46: Flash Cannon
+
+#180 - Magnezone:
+
+- Level 11: Magnet Bomb (Moved from Level 30)
+- Level 30: Mirror Shot (Moved from Level 46)
+- Level 46: Flash Cannon
+
+#181 - Tangela:
+
+- Level 1: Absorb (Moved from Level 8)
+- Level 8: Mega Drain (Moved from Level 26)
+- Level 26: Giga Drain
+
+#182 - Tangrowth:
+
+- Level 1: Absorb (Moved from Level 8)
+- Level 8: Mega Drain (Moved from Level 26)
+- Level 26: Giga Drain
+
+#183 - Yanma:
+
+- Level 1: Supersonic (Moved from Level 22)
+- Level 8: Bug Bite
+- Level 20: Pursuit (Moved from Level 30)
+- Level 22: Wing Attack (Moved from Level 43)
+- Level 30: Air Slash (Moved from Level 54)
+- Level 43: Bug Buzz (Moved from Level 57)
++ HM02: Fly
+
+#184 - Yanmega:
+
+- Level 1: Supersonic (Moved from Level 22)
+- Level 8: Bug Bite
+- Level 20: Pursuit (Moved from Level 30)
+- Level 22: Slash (Moved from Level 43)
+- Level 30: Air Slash (Moved from Level 54)
+- Level 43: Bug Buzz (Moved from Level 57)
++ HM02: Fly
+
+#185 - Tropius:
+
+- Level 1: Leaf Storm (Moved from Level 61)
+- Level 1: Sunny Day
+- Level 1: Growth (Moved from Level 7)
+- Level 7: Sweet Scent (Moved from Level 21) 
+- Level 21: Magical Leaf (Moved from Level 31)
+- Level 31: Air Slash (Moved from Level 47)
+- Level 47: Outrage
+
+#186 - Rhyhorn
+
+- Level 1: Fury Attack (Moved from Level 13)
+- Level 13: Magnitude
+- Level 37: Earthquake (Moved from Level 49)
+- Level 49: Horn Drill (Moved from Level 37) 
+
+#187 - Rhydon
+
++ Change Evolution Method: Level Up While Holding Protector
+- Level 13: Magnitude (Replaces Fury Attack)
+- Level 37: Earthquake (Moved from Level 49)
+- Level 49: Horn Drill (Moved from Level 37)
+
+#188 - Rhyperior:
+
+- Level 13: Magnitude (Replaces Fury Attack)
+- Level 37: Earthquake (Moved from Level 49)
+- Level 49: Horn Drill (Moved from Level 37)
+
+#189 - Duskull:
+
+- Level 1: Astonish (Moved from Level 14)
+- Level 14: Pursuit (Moved from Level 25)
+- Level 25: Will-O-Wisp (Moved from Level 33)
+- Level 33: Payback (Moved from Level 41)
+- Level 41: Shadow Ball     
+
+#190 - Dusclops:
+
++ Change Evolution Method: Level Up While Holding Reaper Cloth
+- Level 1: Astonish (Moved from Level 14)
+- Level 14: Pursuit (Moved from Level 25)
+- Level 25: Will-O-Wisp (Moved from Level 33)
+- Level 33: Payback (Moved from Level 51)
+- Level 51: Shadow Ball
+
+#191 - Dusknoir:
+
+- Level 1: Astonish (Moved from Level 14)
+- Level 14: Pursuit (Moved from Level 25)
+- Level 25: Will-O-Wisp (Moved from Level 33)
+- Level 33: Payback (Moved from Level 51)
+- Level 51: Shadow Ball
+
+#192 - Porygon:
+
++ Change Evolution Method: Level Up While Holding Upgrade
+- Level 45: Tri Attack (Moved from Level 51)
+- Level 51: Lock-On (Moved from Level 45)
+
+#193 - Porygon2:
+
++ Change Evolution Method: Level Up While Holding Dubious Disc
+- Level 45: Tri Attack (Moved from Level 51)
+- Level 51: Lock-On (Moved from Level 45)
+
+#194 - Porygon-Z:
+
+- Level 45: Tri Attack (Moved from Level 51)
+- Level 51: Lock-On (Moved from Level 45)
+
+#195 - Scyther:
+
++ Change Evolution Method: Level Up While Holding Metal Coat
+- Level 1: Fury Cutter (Moved from Level 25)
+- Level 25: Bug Bite
+
+#196 - Scizor:
+
+- Level 1: Fury Cutter (Moved from Level 25)
+- Level 1: Wing Attack
+- Level 25: Bug Bite
+
+#198 - Electabuzz:
+
++ Change Evolution Method: Level Up While Holding Electirizer
+
+#199 - Electivire:
+
+- Level 1: Ice Punch
+
+#201 - Magmar:
+
++ Change Evolution Method: Level Up While Holding Magmarizer
+
+#204 - Piloswine:
+
+- Level 28: Fury Attack (Moved from Level 33)
+- Level 33: Ice Fang (Moved from Level 28)
+
+#205 - Mamoswine:
+
+- Level 28: Double Hit (Moved from Level 33)
+- Level 33: Ice Fang (Moved from Level 28)
+
+#209 - Absol:
+
+- Level 1: Psycho Cut (Moved from Level 60)
+- Level 1: Leer (Moved from Level 4)
+- Level 4: Pursuit (Moved from Level 20)
+- Level 20: Bite (Moved from Level 28)
+- Level 28: Slash (Moved from Level 36)
+- Level 36: Night Slash (Moved from Level 52)
+- Level 52: Me First (Moved from Level 57)
+- Level 57: Perish Song (Moved from Level 65)
+
+- Also Edit other Trade Evo's (Huntail, Gorebyss, Dusknoir, Probopass, etc.)

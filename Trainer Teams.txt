@@ -1,0 +1,1481 @@
+Trainer Teams:
+
+Pastebin Link: https://pastebin.com/raw/Ls4sFCEa
+
+Route 201:
+
+- Unchanged
+
+Route 202:
+
+- Youngster Tristan (01): 	Starly (5)
+- Lass Natalie (03): 		Bidoof (5)
+- Youngster Logan (02): 	Burmy (Plant Cloak) (5)
+
+Rematch:
+
+- Youngster Tristan (765): 	Staravia (24)
+- Youngster Tristan (766, 767): Staraptor (35, 45)
+
+Trainers' School:
+
+- School Kid Harrison (342): 	Starly (6)
+- School Kid Christine (345): 	Bidoof (6)
+
+Jubilife City:
+
+- Galactic Grunt (414): 	Stunky (13)
+- Galactic Grunt (415): 	Glameow (13)
+
+Route 204 (South Side):
+
+- Lass Sarah (12): 		Mime Jr. (7), Shinx (7)
+- Youngster Tyler (10): 	Magikarp (8)
+- Lass Samantha (11): 		Combee (6), Budew (7)
+
+Rematch:
+
+- Lass Samantha (703): 		Combee (24), Beautifly (26), Budew (24)
+- Lass Samantha (704): 		Combee (33), Beautifly (35), Roselia (33)
+- Lass Samantha (705): 		Roselia (51), Beautifly (51), Vespiquen (53)
+
+Route 203:
+
+- Rival Barry (247) (Turtwig):
+	Starly  (7): Quick Attack, Tackle, Growl
+	Turtwig (9): Absorb, Tackle, Withdraw
+
+- Rival Barry (248) (Chimchar):
+	Starly   (7): Quick Attack, Tackle, Growl
+	Chimchar (9): Ember, Scratch, Leer, Taunt
+
+- Rival Barry (249) (Piplup):
+	Starly (7): Quick Attack, Tackle, Growl
+	Piplup (9): Bubble, Pound, Growl
+
+- Youngster Michael (4): 	Kricketot (7), Zubat (6)
+- Youngster Dallas (355): 	Shinx (8)
+- Youngster Sebastian (356): 	Bonsly (8), Machop (8)
+- Lass Kaitlin (323): 		Bidoof (6), Budew (6), Starly (6), Abra (6)
+- Lass Madeline (322): 		Buneary (7), Psyduck (8)
+
+Rematch:
+
+- Youngster Dallas (768): 	Luxio (22), Bibarel (22)
+- Youngster Dallas (769): 	Luxio (34), Bibarel (34), Graveler (32)
+- Youngster Dallas (770): 	Luxray (54), Bibarel (52), Golem (50), Staraptor (50)
+
+- Lass Madeline (706): 		Psyduck (22), Buneary (22)
+- Lass Madeline (707): 		Golduck (35), Buneary (33)
+- Lass Madeline (708): 		Golduck (43), Lopunny (43)
+
+Oreburgh Gate (1F):
+
+- Camper Curtis (265): 		Starly (7), Shinx (7)
+- Picnicker Diana (329): 	Bidoof (9)
+
+Oreburgh Mine:
+
+- Worker Mason (196): 		Geodude (9)
+- Worker Colin (195): 		Geodude (6), Machop (8)
+
+Oreburgh City Gym:
+
+- Youngster Jonathon (244): 	Geodude (11)
+- Youngster Darius (245): 	Geodude (9), Onix (9)
+
+- Leader Roark (246):
+	Geodude  (12): Rock Throw, Stealth Rock
+	Onix     (12): Rock Throw, Screech, Stealth Rock
+	Nosepass (12): Tackle, Harden, Thunder Wave, Stealth Rock
+	Cranidos (14): Headbutt, Pursuit, Leer (Oran Berry)
+
+Route 204 (North Side):
+
+- Aroma Lady Taylor (14): 	Budew (9), Cherubi (11)
+- Bug Catcher Brandon (13): 	Wurmple (10), Kricketune (11)
+- Twins Liv & Liz (15): 	Pachirisu (11), Pachirisu (11)
+
+	Rematch:
+
+- Bug Catcher Brandon (712): 	Dustox (21), Kricketune (23)
+- Bug Catcher Brandon (713): 	Dustox (30), Kricketune (32), Scyther (34)
+- Bug Catcher Brandon (714): 	Dustox (49), Kricketune (51), Scizor (53)
+
+Floaroma Meadow:
+
+- Galactic Grunt (296): 	Cascoon (11), Stunky (13)
+- Galactic Grunt (297): 	Zubat (11), Croagunk (13)
+
+Valley Windworks:
+
+- Galactic Grunt (843): 	Silcoon (11), Glameow (13)
+- Galactic Grunt (298): 	Zubat (11), Houndour (13)
+- Galactic Grunt (299): 	Glameow (11), Stunky (11), Croagunk (13)
+
+- Commander Mars (295):
+	Bronzor (15): Confusion, Faint Attack, Confuse Ray
+	Yanma   (15): Bug Bite, Quick Attack, Double Team
+	Purugly (17): Scratch, Faint Attack, Fake Out (Oran Berry)
+
+Route 205 (Southern Segment):
+
+- Camper Jacob (16): 		Ponyta (14)
+- Hiker Daniel (18): 		Geodude (12), Bonsly (13), Geodude (14)
+- Aroma Lady Elizabeth (21): 	Roselia (14)
+- Camper Zackary (377): 	Aipom (14)
+- Picnicker Siena (17): 	Bidoof (12), Pachirisu (14)
+- Hiker Nicholas (19): 		Onix (14)
+- Battle Girl Kelsey (20): 	Machop (15)
+- Picnicker Karina (456): 	Piplup (14)
+
+Rematch:
+
+- Aroma Lady Elizabeth (627): 	Roselia (24)
+- Aroma Lady Elizabeth (628): 	Roselia (35)
+- Aroma Lady Elizabeth (629): 	Roserade (54)
+
+- Camper Zackary (645): 	Aipom (24)
+- Camper Zackary (646): 	Ambipom (35)
+- Camper Zackary (647): 	Ambipom (52), Bibarel (52)
+
+- Picnicker Karina (718): 	Piplup (24)
+- Picnicker Karina (719): 	Prinplup (35)
+- Picnicker Karina (720): 	Empoleon (54)
+
+Eterna Forest:
+
+- Bug Catcher Jack (201): 	Wurmple (13), Silcoon (14), Beautifly (15)
+- Lass Briana (204): 		Azurill (14), Pachirisu (16)
+
+- Psychic Lindsey (206): 	Abra (17)
+- Psychic Elijah (205): 	Abra (17)
+
+- Bug Catcher Philip (202): 	Wurmple (13), Cascoon (14), Dustox (15)
+- Bug Catcher Donald (203): 	Burmy (Sandy Cloak) (14), Burmy (Trash Cloak) (14)
+
+- Psychic Kody (395):		Bronzor (15), Meditite (17)
+- Psychic Rachael (398):	Chingling (15), Psyduck (17)
+
+Route 205 (Northern Segment):
+
+- Fisherman Joseph (23): 	Goldeen (17)
+- Fisherman Andrew (22): 	Magikarp (12), Magikarp (13), Magikarp (14), Magikarp (14), Magikarp (15), Magikarp (16)
+- Fisherman Zachary (24): 	Magikarp (14), Goldeen (16), Finneon (16)
+
+Rematch:
+
+- Fisherman Joseph (683): 	Seaking (35)
+- Fisherman Joseph (684): 	Seaking (54)
+
+Route 211 (Western Segment):
+
+- Ninja Boy Zach (78):		Burmy (Plant Cloak) (14), Croagunk (14), Zubat (14)
+- Hiker Louis (326):		Geodude (14), Onix (18)
+- Bird Keeper Alexandra (76):	Starly (17), Hoothoot (17)
+
+Rematch:
+
+- Ninja Boy Zach (746): 	Croagunk (32), Mothim (34), Golbat (34)
+- Ninja Boy Zach (747):		Toxicroak (42), Mothim (42), Golbat (42)
+- Ninja Boy Zach (748):		Toxicroak (51), Mothim (51), Crobat (53)
+
+Eterna City Gym:
+
+- Lass Caroline (324): 		Cherubi (17), Roselia (19)
+- Aroma Lady Jenna (259): 	Budew (15), Turtwig (16), Roselia (17)
+- Aroma Lady Angela (260): 	Wormadam (Plant Cloak) (20)
+
+- Leader Gardenia (315):
+	Grotle    (20): Razor Leaf, Grass Knot, Sunny Day, Reflect
+	Cherrim   (20): Magical Leaf, Grass Knot, Leech Seed, Sunny Day
+	Carnivine (20): Grass Knot, Bite, Growth, Ingrain
+	Roserade  (22): Magical Leaf, Poison Sting, Grass Knot, Stun Spore (Oran Berry)
+
+Eterna Galactic Building:
+
+- Galactic Grunt (410): 	Zubat (17), Stunky (18)
+- Galactic Grunt (421):		Zubat (17), Glameow (18)
+
+- Galactic Grunt (422): 	Bronzor (17), Beautifly (19)
+- Galactic Grunt (412):		Houndour (17), Dustox (19)
+
+- Galactic Grunt (423): 	Stunky (16), Croagunk (18), Glameow (16) 
+- Scientist Travon (831):	Kadabra (20)
+
+- Commander Jupiter (406):
+	Zubat    (21): Wing Attack, Bite, Giga Drain, Confuse Ray
+	Gligar   (21): Wing Attack, Slash, Knock Off, Sand-Attack 
+	Skuntank (23): Night Slash, Poison Gas, Screech, SmokeScreen (Sitrus Berry)
+
+Route 206 (Cycling Road):
+
+- Cyclist Axel (25): 		Pikachu (21)
+- Cyclist Megan (29): 		Staravia (21)
+- Cyclist James (26): 		Ponyta (21)
+- Cyclist Nicole (30): 		Swablu (17), Wingull (18), Staravia (19) 
+- Cyclist John (27): 		Starly (18), Staravia (20)
+- Cyclist Ryan (28): 		Luxio (21)
+- Cyclist Rachel (32): 		Ponyta (20), Shinx (18)
+- Cyclist Kayla (31): 		Pikachu (21)
+
+Rematch:
+
+- Cyclist John (653):		Staravia (32), Staraptor (34)
+- Cyclist John (654):		Staraptor (43), Staraptor (43)
+- Cyclist John (655):		Farfetch'd (57), Dodrio (58), Staraptor (59)
+
+- Cyclist Kayla (656):		Pikachu (35)
+- Cyclist Kayla (657):		Raichu (45)
+- Cyclist Kayla (658):		Plusle (58), Minun (58), Raichu (58)
+
+Route 206 (Under the Bridge):
+
+- Hiker Theodore (451):		Onix (18), Onix (20)
+
+Rematch:
+
+- Hiker Theodore (709):		Onix (32), Steelix (34)
+- Hiker Theodore (710):		Steelix (42), Steelix (44)
+- Hiker Theodore (711):		Camerupt (56), Steelix (59), Donphan (59)
+
+Wayward Cave:
+
+- Hiker Reginald (454):		Geodude (20), Rhyhorn (20)
+- Hiker Lorenzo (455):		Geodude (20), Onix (22)
+
+- Lass Cassidy (450):		Buneary (22)
+- Youngster Wayne (496):	Staravia (17), Ponyta (20), Shellos (West Sea) (20)
+
+- Picnicker Tori (458):		Marill (20), Psyduck (22)
+- Camper Diego (379):		Aipom (22)
+
+- Picnicker Ana (459):		Hoothoot (22)
+- Camper Parker (380):		Buizel (20), Shinx (20)
+
+- Collector Terry (383):	Gible (22)
+- Ruin Maniac Gerald (443):	Geodude (19), Bronzor (21)
+
+Route 207:
+
+- Camper Anthony (34):		Chimchar (22)
+- Picnicker Lauren (35):	Pachirisu (22)
+- Hiker Justin (37):		Geodude (20), Nosepass (20)
+- Youngster Austin (33):	Buizel (18), Luxio (18), Gligar (21)
+- Hiker Kevin (36):		Geodude (19), Barboach (19), Onix (21), Geodude (21)
+- Battle Girl Helen (38):	Machop (21), Meditite (21)
+
+Rematch:
+
+- Battle Girl Helen (633):	Meditite (23), Machop (23)
+- Battle Girl Helen (634):	Medicham (44), Machoke (44)
+- Battle Girl Helen (635):	Medicham (60), Machamp (60)
+
+Route 208:
+
+- Hiker Robert (39): 		Nosepass (22)
+- Black Belt Kyle (42): 	Machop (23)
+- Hiker Jonathan (41): 		Onix (22)
+- Aroma Lady Hannah (44): 	Roselia (18), Combee (22)
+- Artist William (45): 		Mime Jr. (20), Bonsly (20)
+- Fisherman Cody (43): 		Barboach (33), Gyarados (33)
+- Hiker Alexander (40): 	Graveler (38), Probopass (40)
+
+Rematch:
+
+- Artist William (630): 	Mr. Mime (33), Sudowoodo (33)
+- Artist William (631): 	Mr. Mime (43), Sudowoodo (43)
+- Artist William (632): 	Smeargle (60), Mr. Mime (57), Sudowoodo (57)
+
+Hearthome City Gym:
+
+- Youngster Donny (357): 	Gastly (20), Drifloon (22)
+- Lass Molly (325): 		Misdreavus (23)
+- School Kid Chance (340): 	Gastly (23)
+- School Kid Mackenzie (343): 	Drifloon (21), Drifloon (21)
+- Ace Trainer Allen (280): 	Gastly (22), Duskull (22), Haunter (24) 
+- Ace Trainer Catherine (284): 	Haunter (23), Misdreavus (24)
+
+- Leader Fantina (318):
+	Duskull   (24): Shadow Sneak, Pursuit, Future Sight, Will-O-Wisp
+	Haunter   (24): Shadow Claw, Sucker Punch, Confuse Ray, Hypnosis
+	Drifblim  (24): Ominous Wind, Payback, Stockpile, Focus Energy
+	Mismagius (26): Shadow Ball, Psybeam, Magical Leaf, Confuse Ray (Sitrus Berry)
+
+Route 209:
+
+- Rival Barry (470) (Turtwig):
+	Staravia (25): Quick Attack, Wing Attack, Endeavor, Double Team
+	Ponyta   (23): Flame Wheel, Stomp, Ember, Growl
+	Buizel   (23): Water Pulse, Bite, Aqua Jet, Growl
+	Grotle   (27): Razor Leaf, Bite, Mega Drain, Curse
+
+- Rival Barry (471) (Chimchar):
+	Staravia (25): Quick Attack, Wing Attack, Endeavor, Double Team
+	Buizel   (23): Water Pulse, Bite, Aqua Jet, Growl
+	Roselia  (23): Mega Drain, Poison Sting, Leech Seed, Stun Spore
+	Monferno (27): Flame Wheel, Mach Punch, Fury Swipes, Leer
+
+- Rival Barry (472) (Piplup):
+	Staravia (25): Quick Attack, Wing Attack, Endeavor, Double Team
+	Roselia  (23): Mega Drain, Poison Sting, Leech Seed, Stun Spore
+	Ponyta   (23): Flame Wheel, Stomp, Ember, Growl
+	Prinplup (27): Bubble Beam, Metal Claw, Peck, Growl
+
+- Pokémon Breeder Albert (46): 	Budew (20), Bonsly (20), Pichu (20), Eevee (20)
+- Jogger Richard (49):		Luxio (23)
+- Twins Emma & Lil (294):	Bonsly (22), Mime Jr. (22)
+- Poké Kid Danielle (53):	Pichu (22)
+- Jogger Raul (308):		Staravia (23)
+- Pokémon Breeder Jennifer (47): Budew (20), Mime Jr. (20), Cleffa (20), Eevee (20)
+- Cowgirl Shelley (48):		Ponyta (23)
+- Young Couple Ty & Sue (55):	Buneary (23), Buizel (23)
+
+Rematch:
+
+- Pokémon Breeder Albert (639): Roselia (32), Bonsly (32), Pikachu (32), Eevee (32)
+- Pokémon Breeder Albert (640): Roselia (42), Sudowoodo (42), Pikachu (42), Umbreon (42)
+- Pokémon Breeder Albert (641): Roserade (51), Sudowoodo (51), Raichu (51), Umbreon (51)
+
+- Poké Kid Danielle (721):	Pikachu (34)
+- Poké Kid Danielle (722):	Pikachu (44)
+- Poké Kid Danielle (723):	Raichu (53)
+
+- Pokémon Breeder Jennifer (642): Roselia (32), Mime Jr. (32), Clefairy (32), Eevee (32)
+- Pokémon Breeder Jennifer (643): Roselia (41), Mr. Mime (41), Clefairy (41), Espeon (41)
+- Pokémon Breeder Jennifer (644): Roserade (50), Mr. Mime (50), Clefable (50), Espeon (50)
+
+Lost Tower:
+
+- Youngster Oliver (532):	Mothim (20), Chatot (21), Barboach (19)
+- Roughneck Kirby (529):	Cleffa (23)
+- Pokéfan Leonard (530):	Pichu (19), Pikachu (22), Pichu (19)
+- Pokéfan Rebekah (531):	Bonsly (23)
+- Belle & Pa Beth & Bob (533):	Ponyta (23), Ponyta (23)
+- Young Couple Mike & Nat (534): Murkrow (23), Misdreavus (23)
+
+Solaceon Ruins:
+
+- Ruin Maniac Karl (553): 	Geodude (19), Geodude (21), Bronzor (23)
+
+Route 210 (South of the Psyduck):
+
+- Jogger Wyatt (306): 		Pikachu (24)
+- Rancher Marco (292):		Ponyta (24)
+- Belle & Pa Ava & Matt (290):	Ponyta (24), Rapidash (24)
+- Twins Teri & Tia (65):	Pikachu (23), Clefairy (23)
+- Pokémon Breeder Kahlil (56):	Elekid (23), Happiny (23)
+- Pokémon Breeder Amber (57):	Magby (23), Togepi (23)
+
+Rematch:
+
+- Rancher Marco (681): 		Ponyta (42), Rapidash (44)
+- Rancher Marco (682): 		Ponyta (56), Miltank (57), Tauros (57), Rapidash (58)
+
+- Twins Teri & Tia (687): 	Pikachu (44), Clefairy (44) 
+- Twins Teri & Tia (688): 	Raichu (60), Clefable (60)
+
+Route 215:
+
+- Ruin Maniac Calvin (304): 	Bronzor (23), Shieldon (23)
+- Jogger Craig (307): 		Luxio (22), Luxio (24)
+- Black Belt Derek (128): 	Croagunk (26)
+- Black Belt Gregory (127): 	Machop (23), Machop (23), Machop (23)
+- Black Belt Nathaniel (129): 	Croagunk (21), Machop (24), Meditite (24)
+- Jogger Scott (130): 		Staravia (25)
+- Ace Trainer Dennis (278): 	Gligar (24), Buizel (24), Driblim (25)
+- Ace Trainer Maya (287): 	Roselia (24), Ralts (24), Lickitung (25)
+
+Rematch:
+
+- Jogger Craig (697): 		Luxio (43), Luxio (43)
+- Jogger Craig (698): 		Luxray (59), Luxray (59)
+
+- Ace Trainer Dennis (664): 	Gligar (44), Floatzel (44), Drifblim (45)
+- Ace Trainer Dennis (665): 	Gliscor (61), Floatzel (61), Drifblim (59)
+
+- Ace Trainer Maya (669): 	Roselia (44), Kirlia (44), Lickitung (45)
+- Ace Trainer Maya (670): 	Roserade (59), Gardevoir (61), Lickilicky (61)
+
+Veilstone City:
+
+- Galactic Grunt (848):		Murkrow (24), Stunky (26)
+- Galactic Grunt (849):		Golbat (24), Croagunk (26)
+
+Veilstone City Gym:
+
+- Black Belt Colby (309): 	Machoke (25), Riolu (25), Machoke (27)
+- Black Belt Darren (310): 	Machop (25), Meditite (25), Machoke (27)
+- Black Belt Rafael (311): 	Croagunk (26), Machoke (26)
+- Black Belt Jeffery (312): 	Heracross (28)
+
+- Leader Maylene (317):
+	Croagunk (28): Poison Jab, Revenge, Sucker Punch, Swagger 
+	Machoke  (30): Karate Chop, Rock Tomb, Strength, Focus Energy
+	Medicham (30): Drain Punch, Zen Headbutt, Rock Tomb, Fake Out
+	Lucario  (32): Drain Punch, Metal Claw, Bone Rush, Force Palm (Sitrus Berry)
+
+Route 214:
+
+- Psychic Abigail (120): 	Chimecho (25), Drifloon (25), Kirlia (27)
+- PI Carlos (121): 		Goldeen (30)
+- Collector Brady (273): 	Skorupi (23), Carnivine (23), Tangela (23), Tropius (23), Croagunk (23), Yanma (23)
+- Beauty Devon (491): 		Wormadam (Plant Cloak) (26), Wormadam (Trash Cloak) (26), Wormadam (Sandy Cloak) (26)
+- Psychic Mitchell (119): 	Duskull (26), Kadabra (26)
+- Ruin Maniac Bryan (113): 	Bronzor (24), Cranidos (26)
+- Collector Jamal (382): 	Porygon (27)
+- Ruin Maniac Ronald (114): 	Shieldon (27)
+- Collector Douglas (272): 	Jolteon (26), Flareon (26), Vaporeon (26)
+
+Rematch:
+
+- Psychic Abigail (677): 	Chimecho (41), Drifblim (43), Gardevoir (45)
+- Psychic Abigail (678): 	Chimecho (57), Drifblim (59), Gardevoir (61)
+
+- PI Carlos (689): 		Seaking (48)
+- PI Carlos (690): 		Seaking (64)
+
+- Psychic Mitchell (673): 	Dusclops (44), Kadabra (44)
+- Psychic Mitchell (674): 	Grumpig (59), Dusknoir (59), Alakazam (59)
+
+Route 213:
+
+- Tuber Chelsea (108): 		Marill (30)
+- Tuber Jared (107): 		Mantyke (24), Shellos (East Sea) (25), Shellos (West Sea) (26)
+- Fisherman Kenneth (111):	Remoraid (25), Remoraid (25), Gyarados (28)
+- Beauty Cyndy (346):		Glameow (29)
+- Swimmer Haley (105):		Psyduck (31), Azumarill (35)
+- Swimmer Sheltin (103):	Gyarados (32), Gyarados (32), Gyarados (32)
+- Sailor Paul (110):		Tentacool (31), Pelipper (31), Machoke (34)
+- Swimmer Evan (104):		Mantine (32), Golduck (34)
+- Swimmer Mary (106):		Lumineon (33), Pelipper (33)
+
+Rematch:
+
+- Tuber Chelsea (773):		Azumarill (44)
+- Tuber Chelsea (775):		Azumarill (53)
+
+- Tuber Jared (771):		Mantyke (32), Shellos (East Sea) (32), Shellos (West Sea) (32)
+- Tuber Jared (772):		Mantine (51), Gastrodon (East Sea) (51), Gastrodon (West Sea) (51)
+
+- Beauty Cyndy (749):		Glameow (45)
+- Beauty Cyndy (750):		Meowth (59), Glameow (59), Skitty (59)
+
+Pastoria City:
+
+- Rival Barry (473) (Turtwig):
+	Staravia (34): Take Down, Wing Attack, Endeavor, Double Team
+	Ponyta   (32): Flame Wheel, Stomp, Ember, Fire Spin
+	Munchlax (34): Body Slam, Bite, Stockpile, Amnesia (Leftovers)
+	Buizel   (32): Aqua Tail, Bite, Double Hit, Aqua Jet
+	Grotle   (36): Razor Leaf, Bite, Leech Seed, Curse (Sitrus Berry)
+
+- Rival Barry (474) (Chimchar):
+	Staravia (34): Take Down, Wing Attack, Endeavor, Double Team
+	Buizel   (32): Aqua Tail, Bite, Double Hit, Aqua Jet
+	Munchlax (34): Body Slam, Bite, Stockpile, Amnesia (Leftovers)
+	Roselia  (32): Giga Drain, Leech Seed, Toxic Spikes, Stun Spore
+	Monferno (36): Flame Wheel, Close Combat, Mach Punch, Torment (Sitrus Berry)
+
+- Rival Barry (475) (Piplup):
+	Staravia (34): Take Down, Wing Attack, Endeavor, Double Team
+	Roselia  (32): Giga Drain, Leech Seed, Toxic Spikes, Stun Spore
+	Munchlax (34): Body Slam, Bite, Stockpile, Amnesia (Leftovers)
+	Ponyta   (32): Flame Wheel, Stomp, Ember, Fire Spin
+	Prinplup (36): BubbleBeam, Metal Claw, Aerial Ace, Swagger (Sitrus Berry)
+
+Pastoria City Gym:
+
+- Tuber Jacky (497):  		Bibarel (32)
+- Fisherman Walter (401): 	Whiscash (33)
+- Sailor Damian (339): 		Mantyke (31), Pelipper (33)
+- Tuber Caitlyn (498): 		Azurill (29), Marill (31), Azumarill (33)
+- Fisherman Erick (293): 	Goldeen (28), Gyarados (31), Seaking (31)
+- Sailor Samson (483): 		Pelipper (31), Shellos (West Sea) (31), Golduck (33)
+
+- Leader Wake (316):
+	Gyarados  (33): Waterfall, Bite, Thrash, Brine
+	Octillery (33): Octazooka, Aurora Beam, Psybeam, Focus Energy
+	Golduck   (35): Brine, Zen Headbutt, Aqua Jet, Screech
+	Quagsire  (35): Water Pulse, Mud Bomb, Rock Tomb, Yawn (Wide Lens)
+	Floatzel  (37): Brine, Ice Fang, Crunch, Aqua Jet (Sitrus Berry)
+
+Route 212 (Northern Area):
+
+- Policeman Bobby (88): 	Hoothoot (24), Meditite (26), Machoke (28)
+- Policeman Alex (89):		Hoothoot (25), Machop (25), Croagunk (27)
+- Policeman Dylan (90):		Machop (24), Staravia (26), Noctowl (28) 
+- Socialite Reina (85):		Roselia (27), Chansey (27)
+- Gentleman Jeremy (84):	Chatot (27), Lickitung (27)
+- Policeman Caleb (102):	Hoothoot (25), Croagunk (25), Machoke (29)
+- Rich Boy Jason (82): 		Prinplup (27)
+- Lady Melissa (83):		Cherubi (27)
+
+Rematch:
+
+- Socialite Reina (701):	Roselia (45), Blissey (47) 
+- Socialite Reina (702):	Roselia (61), Blissey (63)
+
+- Gentleman Jeremy (691):	Chatot (35), Lickilicky (37)
+- Gentleman Jeremy (692):	Chatot (45), Lickilicky (47)
+- Gentleman Jeremy (693):	Chatot (61), Lickilicky (63)
+
+- Lady Melissa (729):		Cherrim (35)
+- Lady Melissa (730):		Cherrim (45)
+- Lady Melissa (731):		Jumpluff (58), Cherrim (58), Bellossom (58)
+
+Route 212 (Southern Area):
+
+- Pokémon Ranger Jeffery (95): 	Pikachu (29), Monferno (31)
+- Pokémon Ranger Allison (96): 	Azumarill (29), Leafeon (29)
+- Scientist Stefano (99): 	Kadabra (30)
+- Policeman Danny (332): 	Croagunk (26), Hoothoot (26), Machoke (28) 
+- Collector Dean (381): 	Umbreon (27), Espeon (27)
+- Fisherman Travis (93): 	Barboach (24), Remoraid (25), Barboach (25), Gyarados (26)
+- Fisherman Josh (92): 		Goldeen (27), Tentacruel (29)
+- Fisherman Juan (91): 		Gyarados (29)
+- Parasol Lady Alexa (327): 	Goldeen (27), Bibarel (27)
+- Pokémon Ranger Taylor (94): 	Carnivine (28), Luxio (30)
+- Scientist Shaun (486): 	Magnemite (30), Kadabra (26)
+- Parasol Lady Sabrina (328): 	Wooper (26), Quagsire (28)
+
+Rematch:
+
+- Pokémon Ranger Allison (736): Azumarill (35), Leafeon (35)
+- Pokémon Ranger Allison (737): Azumarill (45), Leafeon (45)
+- Pokémon Ranger Allison (738): Azumarill (61), Leafeon (61)
+
+- Policeman Danny (724): 	Croagunk (32), Noctowl (32), Machoke (34)
+- Policeman Danny (725): 	Toxicroak (42), Noctowl (42), Machoke (44)
+- Policeman Danny (726): 	Toxicroak (51), Noctowl (51), Machamp (53)
+
+- Parasol Lady Alexa (715): 	Seaking (33), Bibarel (33)
+- Parasol Lady Alexa (716): 	Hippowdon (42), Bibarel (42), Seaking (42)
+- Parasol Lady Alexa (717): 	Hippowdon (50), Bibarel (50), Mantine (50), Seaking (50) 
+
+- Pokémon Ranger Taylor (732): 	Carnivine (34), Luxray (36)
+- Pokémon Ranger Taylor (733): 	Carnivine (44), Luxray (46)
+- Pokémon Ranger Taylor (734): 	Carnivine (60), Luxray (62), Crawdaunt (58) 
+
+- Scientist Shaun (743): 	Magnemite (36), Kadabra (32)
+- Scientist Shaun (744): 	Magneton (46), Kadabra (42)
+- Scientist Shaun (745): 	Magneton (55), Alakazam (51)
+
+Route 210 (Northern Section):
+
+- Ninja Boy Fabian (488): 	Haunter (31), Croagunk (31)
+- Ninja Boy Brennan (489): 	Zubat (30), Gastly (30), Skorupi (32)
+- Ninja Boy Bruce (490): 	Croagunk (31), Stunky (33)
+- Ninja Boy Joel (70): 		Zubat (29), Skorupi (31), Stunky (31), Golbat (33)
+- Ace Trainer Alyssa (67): 	Aipom (32), Girafarig (32), Grotle (35) 
+- Double Team Zac & Jen (75): 	Gyarados (36), Raichu (36)
+- Ace Trainer Ernest (66): 	Scyther (32), Probopass (34), Luxio (36) 
+- Ninja Boy Davido (72): 	Dustox (30), Mothim (33)
+- Black Belt Adam (69): 	Machoke (36)
+- Ninja Boy Nathan (71): 	Stunky (31), Golbat (31)
+- Bird Keeper Brianna (74): 	Hoothoot (31), Swablu (31), Noctowl (33) 
+- Veteran Brian (68): 		Tangela (34), Ponyta (34), Buizel (34)
+- Dragon Tamer Patrick (73): 	Gible (34)
+
+Rematch:
+
+- Bird Keeper Brianna (636): 	Noctowl (44), Altaria (44), Noctowl (46) 
+- Bird Keeper Brianna (637): 	Skarmory (59), Noctowl (59), Altaria (59), Noctowl (61)
+
+- Veteran Brian (774): 		Tangela (44), Rapidash (44), Floatzel (44)
+- Veteran Brian (776): 		Floatzel (60), Rapidash (60), Tangrowth (60)
+
+- Dragon Tamer Patrick (659): 	Gabite (46)
+- Dragon Tamer Patrick (660): 	Shelgon (61), Gabite (61), Dragonair (61)
+
+Route 211 (Eastern Segment):
+
+- Black Belt Sean (79): 	Croagunk (31), Meditite (31), Machoke (31)
+- Bird Keeper Katherine (81): 	Noctowl (34)
+- Ruin Maniac Harry (442): 	Cranidos (30), Shieldon (30), Bronzor (32)
+- Ninja Boy Nick (80): 		Skorupi (32), Croagunk (30)
+
+Rematch:
+
+- Ruin Maniac Harry (695): 	Bronzor (44), Shieldon (41), Cranidos (41)
+- Ruin Maniac Harry (696): 	Bastiodon (50), Rampardos (50), Bronzong (53)
+
+Celestic Town:
+
+- Galactic Grunt (416): 	Houndour (32), Golbat (32)
+
+- Galactic Boss Cyrus (913):
+	Sneasel   (36): Faint Attack, Ice Punch, Slash, Screech
+	Magneton  (34): Discharge, Mirror Shot, Metal Sound, Thunder Wave
+	Golbat    (36): Poison Fang, Wing Attack, Bite, Supersonic
+	Honchkrow (38): Faint Attack, Drill Peck, Night Shade, Taunt (Sitrus Berry)	
+
+Route 219:
+
+- Tuber Mariel (360): 		Marill (31), Marill (33)
+- Tuber Trenton (358): 		Shellos (31), Shellos (33)
+
+Route 220:
+
+- Swimmer Jessica (162): 	Goldeen (30), Finneon (31), Goldeen (32), Seaking (33)
+- Swimmer Erica (163): 		Lumineon (35)
+- Swimmer Adrian (159): 	Remoraid (32), Tentacool (32), Octillery (34)
+- Swimmer Vincent (161): 	Pelipper (33), Gastrodon (33)
+- Swimmer Claire (494): 	Floatzel (35)
+- Swimmer Erik (160): 		Tentacruel (35)
+- Swimmer Katelyn (164): 	Buizel (32), Medicham (32), Seaking (32)
+
+Route 221:
+
+- Swimmer Dillon (166): 	Remoraid (33), Floatzel (35)
+- Swimmer Vanessa (167): 	Golduck (35)
+- Fisherman Cory (168): 	Finneon (30), Finneon (32), Lumineon (34)
+- Ace Trainer Shannon (171): 	Cherrim (34), Azumarill (34), Lopunny (35) 
+- Ace Trainer Jake (170): 	Staraptor (35), Girafarig (36)
+- Collector Ivan (274): 	Togetic (35)
+
+Rematch:
+
+- Ace Trainer Shannon (668): 	Cherrim (52), Azumarill (52), Lopunny (56)
+
+- Ace Trainer Jake (663): 	Staraptor (54), Girafarig (55)
+
+- Collector Ivan (650): 	Togekiss (54)
+
+Fuego Iron Works:
+
+- Worker Dillan (844): 		Machop (33), Machoke (35)
+- Worker Holden (845): 		Magnemite (32), Bronzor (32), Magneton (34)
+- Worker Conrad (846): 		Magmar (35)
+
+Route 218:
+
+- Fisherman Miguel (153): 	Gyarados (33), Gyarados (33)
+- Fisherman Luc (154): 		Remoraid (29), Finneon (29), Remoraid (30), Gyarados (31), Octillery (31)
+- Sailor Skyler (338): 		Mantyke (32), Machoke (34)
+- Guitarist Tony (300): 	Kricketune (33), Magnemite (33)
+
+Rematch:
+
+- Fisherman Miguel (685): 	Gyarados (51), Gyarados (51), Octillery (51)
+
+- Guitarist Tony (694): 	Kricketune (52), Magneton (52)
+
+Canalave City:
+
+- Rival Barry (476) (Turtwig):
+	Staraptor (36): Take Down, Aerial Ace, Close Combat, Double Team
+	Rapidash  (35): Flamethrower, Stomp, Flame Wheel, Agility
+	Heracross (37): Bug Bite, Brick Break, Aerial Ace, Night Slash
+	Munchlax  (35): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Floatzel  (35): Aqua Tail, Crunch, Double Hit, Aqua Jet
+	Torterra  (38): Razor Leaf, Earthquake, Leech Seed, Curse (Sitrus Berry)
+
+- Rival Barry (477) (Chimchar):
+	Staraptor (36): Take Down, Aerial Ace, Close Combat, Double Team
+	Floatzel  (35): Aqua Tail, Crunch, Double Hit, Aqua Jet
+	Heracross (37): Bug Bite, Brick Break, Aerial Ace, Night Slash
+	Munchlax  (35): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Roserade  (35): Giga Drain, Leech Seed, Toxic Spikes, GrassWhistle
+	Infernape (38): Flame Wheel, Close Combat, Aerial Ace, Will-O-Wisp (Sitrus Berry)
+
+- Rival Barry (478) (Piplup):
+	Staraptor (36): Take Down, Aerial Ace, Close Combat, Double Team
+	Roserade  (35): Giga Drain, Leech Seed, Toxic Spikes, GrassWhistle
+	Heracross (37): Bug Bite, Brick Break, Aerial Ace, Night Slash
+	Munchlax  (35): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Rapidash  (35): Flamethrower, Stomp, Flame Wheel, Agility
+	Empoleon  (38): Brine, Flash Cannon, Aerial Ace, Swagger (Sitrus Berry)
+
+Iron Island (B1F):
+
+- Camper Lawrence (378): 	Aipom (34), Floatzel (36)
+- Picnicker Summer (457): 	Raichu (37)
+
+Iron Island (B2F):
+
+- Worker Noel (503): 		Magnemite (34), Magnemite (36)
+- Worker Braden (504): 		Steelix (37)
+
+- Hiker Damon (452): 		Nosepass (35), Onix (33), Steelix (34)
+- Hiker Maurice (453): 		Graveler (35), Rhyhorn (35)
+
+- Black Belt Kendal (445): 	Toxicroak (38)
+- Battle Girl Tyler (372): 	Medicham (38)
+
+- Worker Brendon (505): 	Geodude (33), Geodude (33), Machoke (36)
+- Worker Quentin (506): 	Magnemite (34), Graveler (34), Machop (34)
+
+- Ace Trainer Jonah (388): 	Quagsire (35), Staraptor (36), Hippopotas (38)
+- Ace Trainer Brenda (392): 	Lopunny (38), Kirlia (36), Medicham (35)
+
+- Galactic Grunt (835): 	Sneasel (34), Houndour (34), Golbat (34)
+- Galactic Grunt (836): 	Glameow (34), Croagunk (34), Stunky (34)
+
+Canalave City Gym:
+
+- Black Belt Ricky (314): 	Steelix (38)
+- Worker Gary (257): 		Magneton (37)
+- Worker Jackson (256): 	Magnemite (34), Bronzor (36), Magnemite (34)
+- Ace Trainer Cesar (279): 	Scizor (40)
+- Worker Gerado (367): 		Magnemite (35), Probopass (37)
+- Black Belt David (232): 	Steelix (35), Steelix (37)
+- Ace Trainer Breanna (283): 	Bronzor (36), Shieldon (36), Wormadam (Trash Cloak) (38)
+
+- Leader Byron (250):
+	Magnezone (39): Thunderbolt, Flash Cannon, Tri Attack, Magnet Rise
+	Bronzong  (37): Flash Cannon, Zen Headbutt, Confuse Ray, Trick Room
+	Scizor    (37): Bug Bite, Bullet Punch, Aerial Ace, Agility 
+	Steelix   (39): Iron Head, Earthquake, Ice Fang, Sandstorm (Muscle Band)
+	Bastiodon (41): Stone Edge, Flash Cannon, Metal Burst, Taunt (Sitrus Berry)
+
+Lake Valor:
+
+- Galactic Grunt (425): 	Glameow (33), Beautifly (35), Murkrow (35)
+- Galactic Grunt (417): 	Croagunk (33), Dustox (35), Golbat (37)
+- Galactic Grunt (418): 	Croagunk (33), Houndour (33), Stunky (33), Glameow (33)
+
+- Commander Saturn (408):
+	Kadabra   (38): Psychic, Shock Wave, Embargo, Recover
+	Probopass (38): Power Gem, Magnet Bomb, Discharge, Iron Defense
+	Absol     (38): Night Slash, Slash, Taunt, Double Team
+	Toxicroak (40): Poison Jab, Revenge, Faint Attack, Mud Bomb (Sitrus Berry)
+
+Lake Verity:
+
+- Galactic Grunt (426): 	Glameow (33), Golbat (33), Murkrow (36)
+- Galactic Grunt (419): 	Stunky (34), Croagunk (37)
+- Galactic Grunt (420): 	Stunky (35), Sneasel (35), Houndour (35)
+- Galactic Grunt (427): 	Houndour (34), Bronzor (35), Glameow (36)
+
+- Commander Mars (405):
+	Golbat  (38): Poison Fang, Air Cutter, Bite, Toxic
+	Bronzor (38): Gyro Ball, Extrasensory, Confuse Ray, Iron Defense
+	Yanmega (38): Bug Bite, AncientPower, Double Team, Supersonic
+	Purugly (40): Slash, Faint Attack, Fake Out, Hypnosis (Sitrus Berry)
+
+Route 216:
+
+- Ace Trainer Blake (132): 	Kadabra (38), Ambipom (39), Porygon2 (40)
+- Ace Trainer Maria (135): 	Golduck (38), Sudowoodo (38), Rapidash (39)
+- Ace Trainer Laura (134): 	Carnivine (40), Tropius (42)
+- Skier Edward (137): 		Sneasel (39)
+- Ace Trainer Garrett (133): 	Mr. Mime (37), Dusclops (39), Scyther (39)
+
+- Black Belt Philip (258): 	Machoke (40)
+- Skier Bradley (136): 		Swinub (36), Snover (36), Glalie (40)
+- Skier Kaitlyn (138): 		Snover (38), Piloswine (40)
+- Skier Andrea (139): 		Snover (39)
+
+Rematch:
+
+- Skier Edward (751): 		Weavile (45)
+- Skier Edward (752): 		Cloyster (52), Weavile (54)
+
+- Black Belt Philip (699): 	Hariyama (53), Machamp (55)
+
+- Skier Andrea (755): 		Abomasnow (45)
+- Skier Andrea (756): 		Dewgong (52), Abomasnow (54)
+
+Route 217:
+
+- Ace Trainer Dalton (140): 	Electabuzz (40), Magmar (40)
+- Skier Shawn (142): 		Snover (36), Snover (37), Golduck (38)
+- Ninja Boy Matthew (146): 	Haunter (37), Golbat (39)
+- Skier Madison (145): 		Snorunt (39)
+- Ninja Boy Ethan (147): 	Skorupi (37), Golbat (39)
+- Skier Bjorn (143): 		Swinub (36), Sneasel (38)
+- Skier Lexie (144): 		Piloswine (37), Glaceon (39)
+- Black Belt Luke (148): 	Croagunk (37), Machoke (37), Riolu (37)
+- Ace Trainer Olivia (141): 	Kirlia (38), Seaking (39), Lopunny (39)
+
+Rematch:
+
+- Ace Trainer Dalton (648): 	Electivire (54), Magmortar (54)
+
+- Skier Madison (757): 		Froslass (45)
+- Skier Madison (758): 		Jynx (52), Froslass (54)
+
+- Skier Bjorn (753): 		Pilsowine (43), Sneasel (43)
+- Skier Bjorn (754): 		Delibird (56), Weavile (58), Mamoswine (60)
+
+- Ace Trainer Olivia (649): 	Gardevoir (52), Seaking (56), Lopunny (54)
+
+Snowpoint City Gym:
+
+- Ace Trainer Anton (827): 	Glalie (44)
+- Ace Trainer Alicia (271): 	Sneasel (40), Glaceon (41)
+- Ace Trainer Savannah (270): 	Snorunt (40), Piloswine (40), Glalie (42)
+- Ace Trainer Sergio (268): 	Snover (41), Sneasel (41), Piloswine (42)
+- Ace Trainer Brenna (828): 	Sneasel (40), Glalie (40), Abomasnow (41)
+- Ace Trainer Isaiah (269): 	Piloswine (44)
+
+- Leader Candice (319):
+	Weavile   (40): Faint Attack, Ice Punch, Aerial Ace, Ice Shard
+	Mamoswine (42): Avalanche, Earthquake, Stone Edge, Hail
+	Abomasnow (42): Avalanche, Wood Hammer, Water Pulse, Focus Blast
+	Glaceon   (42): Blizzard, Water Pulse, Ice Shard, Sand-Attack (BrightPowder)
+	Froslass  (44): Blizzard, Shadow Ball, Psychic, Double Team (Sitrus Berry)
+
+Team Galactic Headquarters (Accessible through the Galactic Warehouse):
+
+- Galactic Grunt (428): 	Glameow (41), Beautifly (41)
+- Galactic Grunt (510): 	Glameow (37), Murkrow (38), Croagunk (39)
+- Scientist Frederick (830): 	Kirlia (40), Kadabra (40)
+- Galactic Grunt (509): 	Stunky (41), Dustox (41)
+- Galactic Grunt (512): 	Murkrow (41), Stunky (41)
+
+Team Galactic Headquarters (Accessible through the Reception Desk):
+
+- Galactic Grunt (513): 	Sneasel (40), Golbat (38)
+- Galactic Grunt (430): 	Golbat (39), Houndour (39)
+
+- Scientist Darrius (829): 	Porygon2 (42)
+
+- Galactic Grunt (514): 	Murkrow (38), Gyarados (40)
+- Galactic Grunt (522): 	Croagunk (40), Stunky (38), Glameow (38)
+
+- Galactic Boss Cyrus (403):
+	Sneasel   (42): Night Slash, Ice Punch, Fake Out, Screech
+	Magnezone (44): Discharge, Mirror Shot, Tri Attack, Thunder Wave
+	Crobat    (44): Poison Fang, Air Cutter, Bite, Confuse Ray
+	Honchkrow (46): Faint Attack, Drill Peck, Psychic, Taunt (Sitrus Berry)
+
+- Commander Saturn (409):
+	Probopass (42): Power Gem, Flash Cannon, Discharge, Thunder Wave
+	Absol     (42): Night Slash, Psycho Cut, Slash, Double Team
+	Alakazam  (42): Psychic, Shock Wave, Reflect, Recover
+	Toxicroak (44): Poison Jab, Brick Break, X-Scissor, Sucker Punch (Sitrus Berry)
+
+Mount Coronet (3F):
+
+- Galactic Grunt (523): 	Bronzor (41), Stunky (43)
+- Galactic Grunt (515): 	Sneasel (41), Murkrow (43)
+
+Mount Coronet (4F):
+
+- Galactic Grunt (516): 	Houndour (40), Golbat (40), Houndoom (42)
+- Galactic Grunt (517): 	Stunky (42), Golbat (42)
+
+Mount Coronet (Tunnel Room):
+
+- Galactic Grunt (519): 	Golbat (43)
+- Galactic Grunt (524): 	Murkrow (39), Glameow (42), Beautifly (42)
+- Galactic Grunt (518): 	Croagunk (38), Stunky (40), Dustox (42)
+
+Mount Coronet (5F):
+
+- Galactic Grunt (525): 	Houndour (40), Glameow (42)
+- Galactic Grunt (520): 	Stunky (41), Sneasel (41), Golbat (43)
+
+Mount Coronet (6F):
+
+- Galactic Grunt (526): 	Golbat (39), Croagunk (40), Murkrow (41), Gyarados (42)
+
+Spear Pillar:
+
+- Galactic Grunt (521): 	Croagunk (41), Dustox (41), Houndoom (43)
+- Galactic Grunt (527): 	Bronzor (41), Beautifly (41), Absol (43)
+
+- Rival Barry (607) (Turtwig):
+	Snorlax   (40): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Staraptor (42): Take Down, Aerial Ace, Close Combat, Double Team
+	Rapidash  (40): Flamethrower, Stomp, Flame Wheel, Will-O-Wisp
+	Heracross (42): Bug Bite, Close Combat, Aerial Ace, Night Slash
+	Floatzel  (40): Aqua Tail, Crunch, Brick Break, Aqua Jet
+	Torterra  (44): Razor Leaf, Earthquake, Leech Seed, Stealth Rock (Sitrus Berry)
+
+- Rival Barry (619) (Chimchar):
+	Snorlax   (40): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Staraptor (42): Take Down, Aerial Ace, Close Combat, Double Team
+	Floatzel  (40): Aqua Tail, Crunch, Brick Break, Aqua Jet
+	Heracross (42): Bug Bite, Close Combat, Aerial Ace, Night Slash
+	Roserade  (40): Giga Drain, Toxic, Ingrain, GrassWhistle
+	Infernape (44): Flame Wheel, Close Combat, Aerial Ace, Will-O-Wisp (Sitrus Berry)
+
+- Rival Barry (620) (Piplup):
+	Snorlax   (40): Body Slam, Bite, Screech, Stockpile (Leftovers)
+	Staraptor (42): Take Down, Aerial Ace, Close Combat, Double Team
+	Roserade  (40): Giga Drain, Toxic, Ingrain, GrassWhistle
+	Heracross (42): Bug Bite, Close Combat, Aerial Ace, Night Slash
+	Rapidash  (40): Flamethrower, Stomp, Flame Wheel, Will-O-Wisp
+	Empoleon  (44): Brine, Flash Cannon, Aerial Ace, Swagger (Sitrus Berry)
+
+- Commander Mars (528):
+	Bronzong (44): Extrasensory, Reflect, Light Screen, Confuse Ray
+	Yanmega  (44): U-turn, Air Slash, AncientPower, Detect 
+	Purugly  (46): Slash, Shadow Claw, Aerial Ace, Hypnosis (Sitrus Berry)
+
+- Commander Jupiter (407):
+	Crobat   (44): Sludge Bomb, Air Cutter, Giga Drain, Confuse Ray
+	Gliscor  (44): Earthquake, Aerial Ace, Night Slash, U-turn
+	Skuntank (46): Poison Jab, Night Slash, Flamethrower, SmokeScreen (Sitrus Berry)
+
+Distortion World:
+
+- Galactic Boss Cyrus (404):
+	Houndoom  (45): Dark Pulse, Flamethrower, Thunder Fang, Will-O-Wisp
+	Magnezone (45): Discharge, Flash Cannon, Tri Attack, Thunder Wave
+	Crobat    (46): Cross Poison, Air Slash, Toxic, Confuse Ray (Black Sludge)
+	Gyarados  (46): Waterfall, Ice Fang, Earthquake, Giga Impact
+	Honchkrow (47): Night Slash, Drill Peck, Psychic, Heat Wave (Scope Lens)
+	Weavile   (48): Night Slash, Ice Punch, X-Scissor, Fake Out (Sitrus Berry)
+
+Route 222:
+
+- Rich Boy Trey (335): 		Luxray (45)
+- Beauty Nicola (492): 		Lopunny (45)
+- Policeman Thomas (333): 	Noctowl (43), Machoke (43)
+- Sailor Marc (337): 		Mantyke (45)
+- Tuber Conner (359): 		Remoraid (44), Gastrodon (East Sea) (44)
+- Sailor Luther (180): 		Wingull (41), Machoke (42), Gastrodon (West Sea) (43)
+
+- Fisherman Alec (173): 	Gyarados (42), Gyarados (45)
+- Fisherman George (174): 	Magikarp (41), Lumineon (41), Octillery (41), Gyarados (42)
+- Fisherman Brett (172): 	Magikarp (43), Finneon (42), Feebas (42)
+- Fisherman Cole (175): 	Gyarados (43), Remoraid (40), Gyarados (43)
+- Tuber Holly (361): 		Remoraid (44), Gastrodon (West Sea) (44)
+- Poké Kid Janet (832): 	Pikachu (42), Pikachu (42)
+
+Rematch:
+
+- Rich Boy Trey (727): 		Luxray (54)
+- Rich Boy Trey (728): 		Luxray (61)
+
+- Sailor Marc (740): 		Mantine (54), Machoke (52)
+- Sailor Marc (741): 		Lanturn (58), Machamp (58), Mantine (60)
+
+- Fisherman Alec (686): 	Gyarados (50), Gyarados (54)
+
+Sunyshore City Gym:
+
+- School Kid Tiera (344): 	Pachirisu (47)
+- School Kid Forrest (341): 	Magneton (47)
+- Guitarist Jerry (301): 	Magneton (44), Luxio (44), Luxio (44)
+- Poké Kid Meghan (331): 	Pichu (40), Pikachu (42), Pachirisu (42), Pikachu (44)
+- Guitarist Lonnie (303): 	Raichu (47)
+- Ace Trainer Destiny (285): 	Electabuzz (47), Raichu (48)
+- Guitarist Preston (302): 	Luxio (45), Jolteon (45)
+- Ace Trainer Zachery (281): 	Electabuzz (47), Magnezone (48)
+
+- Leader Volkner (320):
+	Jolteon      (46): Charge Beam, Iron Tail, Double Kick, Thunder Wave
+	Raichu       (46): Charge Beam, Focus Blast, Signal Beam, Grass Knot
+	Rotom (Wash) (48): Charge Beam, Shadow Ball, Hydro Pump, Confuse Ray
+	Luxray       (48): Thunder Fang, Fire Fang, Ice Fang, Crunch (Expert Belt)
+	Electivire   (50): ThunderPunch, Fire Punch, Cross Chop, Giga Impact (Sitrus Berry)
+
+Route 223:
+
+- Swimmer Miranda (189): 	Lumineon (45)
+- Swimmer Aubree (190): 	Bibarel (43), Azumarill (43)
+- Swimmer Oscar (188): 		Mantyke (41), Remoraid (42), Mantine (43)
+- Swimmer Colton (186): 	Quagsire (40), Octillery (44), Pelipper (44)
+- Swimmer Paige (191): 		Azumarill (41), Mantine (42), Golduck (43)
+- Swimmer Ricardo (184): 	Tentacruel (45)
+- Swimmer Crystal (192): 	Pelipper (42) Seaking (44)
+- Swimmer Wesley (183): 	Floatzel (43), Tentacruel (43)
+- Swimmer Zachariah (482): 	Pelipper (40), Machoke (42), Gastrodon (West Sea) (44)
+- Swimmer Gabrielle (194): 	Golduck (45)
+- Swimmer Cassandra (193): 	Lumineon (44), Pelipper (42)
+- Swimmer Francisco (185): 	Tentacruel (41), Golduck (45)
+- Swimmer Troy (187): 		Gyarados (45)
+
+Rematch:
+
+- Swimmer Miranda (762): 	Starmie (59), Lumineon (59)
+
+- Swimmer Crystal (763): 	Wailord (56), Pelipper (59), Seaking (59)
+
+- Swimmer Wesley (759): 	Qwilfish (57), Floatzel (57), Tentacruel (57)
+
+- Swimmer Zachariah (742): 	Pelipper (56), Machamp (60), Gastrodon (West Sea) (58)
+
+- Swimmer Francisco (760): 	Golduck (56), Relicanth (58), Tentacruel (60)
+
+Victory Road:
+
+- Psychic Bryce (234): 		Dusclops (43), Gengar (46), Gardevoir (46)
+- Bird Keeper Hana (233): 	Togetic (45), Pelipper (46), Noctowl (47)
+- Ace Trainer Mariah (226): 	Blissey (45), Glalie (46), Magnezone (48)
+- Ace Trainer Omar (224): 	Mamoswine (45), Mothim (46), Rampardos (48)
+- Ace Trainer Sydney (227): 	Clefable (46), Drifblim (47), Torterra (48)
+- Veteran Clayton (229): 	Chatot (47), Lickilicky (47), Hippowdon (47)
+- Double Team Al & Kay (237): 	Sudowoodo (47), Mr. Mime (47), Staraptor (50), Ambipom (50)
+- Black Belt Miles (444): 	Machamp (48)
+- Psychic Valencia (235): 	Chimecho (44), Absol (45), Dusknoir (46)
+- Double Team Pat & Jo (236): 	Pachirisu (47), Cherrim (47), Lumineon (50), Rapidash (50)
+- Ace Trainer Henry (225): 	Rhydon (47), Carnivine (48), Honchkrow (49)
+- Dragon Tamer Ondrej (230): 	Gabite (45), Tropius (46), Altaria (47)
+- Veteran Edgar (228): 		Porygon-Z (46), Tangrowth (46), Empoleon (46)
+- Dragon Tamer Clinton (231): 	Steelix (47), Gabite (47), Gyarados (49) 
+
+Pokémon League:
+
+- Rival Barry (479) (Turtwig):
+	Staraptor (48): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Rapidash  (47): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Heracross (48): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Floatzel  (47): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Snorlax   (49): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Torterra  (51): Wood Hammer, Earthquake, Crunch, Stealth Rock (Sitrus Berry)
+
+- Rival Barry (480) (Chimchar):
+	Staraptor (48): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Floatzel  (47): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Heracross (48): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Roserade  (47): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Snorlax   (49): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Infernape (51): Flame Wheel, Close Combat, Aerial Ace, Shadow Claw (Sitrus Berry)
+
+- Rival Barry (481) (Piplup):
+	Staraptor (48): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Roserade  (47): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Heracross (48): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Rapidash  (47): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Snorlax   (49): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Empoleon  (51): Brine, Flash Cannon, Ice Beam, Grass Knot (Sitrus Berry)
+
+- Elite Four Aaron (261):
+	Yanmega   (49): Bug Buzz, Air Slash, U-turn, Double Team
+	Scizor    (49): X-Scissor, Iron Head, Night Slash, Bullet Punch
+	Vespiquen (50): Attack Order, Defend Order, Heal Order, Power Gem
+	Heracross (51): Megahorn, Close Combat, Night Slash, Stone Edge (Expert Belt)
+	Drapion   (53): Cross Poison, X-Scissor, Ice Fang, Aerial Ace (Sitrus Berry)
+
+- Elite Four Bertha (262):
+	Whiscash  (50): Aqua Tail, Earth Power, Zen Headbutt, Sandstorm
+	Gliscor   (53): Earthquake, Fire Fang, Thunder Fang, Ice Fang (Scope Lens)
+	Hippowdon (52): Earthquake, Stone Edge, Crunch, Yawn
+	Golem     (52): Earthquake, Fire Punch, ThunderPunch, Sandstorm
+	Rhyperior (55): Earthquake, Rock Wrecker, Megahorn, Avalanche (Sitrus Berry) 
+
+- Elite Four Flint (263):
+	Houndoom  (52): Dark Pulse, Flamethrower, Sludge Bomb, Sunny Day
+	Flareon   (55): Overheat, Giga Impact, Flame Wheel, Will-O-Wisp
+	Rapidash  (53): Flare Blitz, SolarBeam, Bounce, Sunny Day
+	Infernape (55): Flare Blitz, Mach Punch, ThunderPunch, Earthquake (Muscle Band)
+	Magmortar (57): Flamethrower, Thunderbolt, SolarBeam, Hyper Beam (Sitrus Berry)
+
+- Elite Four Lucian (264):
+	Mr. Mime (53): Psychic, Thunderbolt, Reflect, Light Screen
+	Espeon   (55): Psychic, Shadow Ball, Signal Beam, Last Resort
+	Bronzong (54): Gyro Ball, Psychic, Earthquake, Calm Mind
+	Alakazam (56): Psychic, Energy Ball, Focus Blast, Recover (Wise Glasses)
+	Gallade  (59): Psycho Cut, Drain Punch, Leaf Blade, Stone Edge (Sitrus Berry)
+
+- Champion Cynthia (267):
+	Spiritomb (58): Shadow Ball, Dark Pulse, Psychic, Silver Wind
+	Roserade  (58): Energy Ball, Sludge Bomb, Extrasensory, Toxic
+	Togekiss  (60): Air Slash, Aura Sphere, Water Pulse, Shock Wave
+	Lucario   (60): Aura Sphere, Shadow Ball, Stone Edge, ExtremeSpeed (Life Orb)
+	Milotic   (58): Surf, Ice Beam, Dragon Pulse, Mirror Coat
+	Garchomp  (62): Dragon Rush, Earthquake, Flamethrower, Giga Impact (Sitrus Berry)
+
+
+
+Post Game:
+
+Victory Road (Back):
+
+- Ace Trainer Micah (389): 	Metang (55), Crawdaunt (56)
+- Ace Trainer Brandi (393): 	Marowak (54), Kangaskhan (57)
+
+- Psychic Desiree (399): 	Mr. Mime (54), Mismagius (54)
+- Psychic Landon (396): 	Banette (53), Alakazam (55)
+
+- Black Belt Eddie (446): 	Primeape (51), Machamp (53), Infernape (55)
+- Veteran Terrell (499): 	Parasect (53), Quagsire (54), Magmortar (55)
+
+- Dragon Tamer Joe (386): 	Dragonair (52), Shelgon (52), Gabite (52)
+- Bird Keeper Autumn (373): 	Xatu (54), Skarmory (54), Honchkrow (56)
+
+- Psychic Deandre (397): 	Giarafarig (54), Dusknoir (56)
+- Psychic Kendra (400): 	Chimecho (52), Dusclops (52), Gengar (55)
+
+- Black Belt Willie (447): 	Heracross (54), Machamp (54)
+- Veteran Brenden (500): 	Forretress (54), Hippowdon (54), Whiscash (54)
+
+- Ace Trainer Arthur (390): 	Gastrodon (East Sea) (53), Beedrill (54), Electrode (55)
+- Ace Trainer Clarice (394): 	Swalot (52), Ninetales (54), Magnezone (56)
+
+Route 224:
+
+- Ace Trainer Ruben (282): 	Shiftry (56), Ludicolo (56), Gyarados (57)
+- Psychic Brittney (289): 	Hypno (55), Alakazam (57)
+- Psychic Maxwell (288): 	Gengar (54), Mismagius (58)
+- Veteran Armando (362): 	Mightyena (53), Muk (53), Slaking (56)
+- Black Belt Carl (313): 	Tyrogue (55), Hitmonlee (59), Hitmonchan (59)
+- Ruin Maniac Larry (305): 	Kabutops (55), Omastar (55), Aerodactyl (57)
+- Ace Trainer Jamie (286): 	Metagross (60)
+- Dragon Tamer Hayden (277): 	Altaria (56), Lapras (56), Seadra (56)
+
+Rematch:
+
+- Psychic Brittney (679): 	Medicham (57), Hypno (59), Alakazam (61)
+
+- Psychic Maxwell (675): 	Mismagius (58), Spiritomb (58), Gengar (62)
+
+- Veteran Armando (777): 	Ninjask (59), Mightyena (59), Muk (59), Slaking (62)
+
+- Dragon Tamer Hayden (661): 	Lapras (60), Altaria (60), Kingdra (62)
+
+Fight Area:
+
+- Rival Barry (923) (Turtwig):
+	Staraptor (53): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Rapidash  (52): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Heracross (53): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Floatzel  (52): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Snorlax   (54): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Torterra  (56): Wood Hammer, Earthquake, Crunch, Stealth Rock (Sitrus Berry)
+
+- Rival Barry (924) (Chimchar):
+	Staraptor (53): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Floatzel  (52): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Heracross (53): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Roserade  (52): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Snorlax   (54): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Infernape (56): Flame Wheel, Close Combat, Aerial Ace, Shadow Claw (Sitrus Berry)
+
+- Rival Barry (925) (Piplup):
+	Staraptor (53): Aerial Ace, Close Combat, Steel Wing, U-turn
+	Roserade  (52): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Heracross (53): Close Combat, Rock Slide, Aerial Ace, Night Slash
+	Rapidash  (52): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Snorlax   (54): Body Slam, Crunch, Earthquake, Rest (Leftovers)
+	Empoleon  (56): Brine, Flash Cannon, Ice Beam, Grass Knot (Sitrus Berry)
+
+- Leader Volkner (921):
+	Luxray     (56): Thunder Fang, Fire Fang, Ice Fang, Crunch
+	Jolteon    (56): Charge Beam, Iron Tail, Double Kick, Thunder Wave
+	Electivire (58): ThunderPunch, Fire Punch, Cross Chop, Giga Impact (Sitrus Berry)
+
+- Elite Four Flint (922):
+	Houndoom  (56): Dark Pulse, Flamethrower, Sludge Bomb, Sunny Day
+	Flareon   (56): Overheat, Giga Impact, Flame Wheel, Will-O-Wisp
+	Magmortar (58): Flamethrower, Thunderbolt, SolarBeam, Hyper Beam (Sitrus Berry)
+
+Route 225:
+
+- Bird Keeper Audrey (554): 	Swellow (53), Farfetch'd (53), Pidgeot (55)
+- Pokémon Ranger Ashlee (594): 	Linoone (55), Arbok (55)
+- Psychic Daisy (585): 		Slowpoke (52), Slowbro (56)
+- Pokémon Ranger Dwayne (593): 	Skarmory (54), Golduck (54), Donphan (56)
+- Ace Trainer Rodolfo (563): 	Sableye (54), Vibrava (55), Starmie (56)
+- Ace Trainer Quinn (567): 	Pinsir (55), Lanturn (56)
+- Ace Trainer Deanna (573): 	Mawile (54), Flaaffy (55), Tropius (56)
+- Dragon Tamer Geoffrey (557): 	Lairon (53), Gabite (54), Altaria (55)
+
+Rematch:
+
+- Bird Keeper Audrey (638): 	Farfetch'd (57), Swellow (59), Pidgeot (61)
+
+- Pokémon Ranger Ashlee (739): 	Linoone (60), Butterfree (60), Arbok (60)
+
+- Psychic Daisy (680): 		Slowbro (58), Slowking (62)
+
+- Ace Trainer Rodolfo (666): 	Sableye (60), Starmie (61), Flygon (62)
+
+- Ace Trainer Deanna (671): 	Mawile (60), Ampharos (61), Tropius (62)
+
+- Dragon Tamer Geoffrey (662): 	Altaria (59), Aggron (59), Garchomp (61)
+
+Route 226:
+
+- Ace Trainer Graham (568): 	Sceptile (57), Blaziken (57), Swampert (57)
+- Bird Keeper Geneva (555): 	Fearow (55), Xatu (57)
+- Dragon Tamer Stanley (560): 	Dratini (55), Trapinch (55), Bagon (55)
+- Swimmer Lydia (604): 		Spheal (54), Wailmer (54), Azumarill (56)
+- Swimmer Wade (600): 		Carvanha (53), Qwilfish (53), Sharpedo (56)
+
+Route 227:
+
+- Ace Trainer Saul (564): 	Tauros (61)
+- Pokémon Ranger Felicia (595): Sunflora (59), Lopunny (59)
+- Ace Trainer Mikayla (576): 	Persian (56), Grumpig (56), Absol (56)
+- Black Belt Griffin (588): 	Breloom (58), Medicham (58)
+
+Rematch:
+
+- Ace Trainer Saul (667): 	Tauros (63)
+
+Route 228:
+
+- Ace Trainer Jose (565): 	Golduck (56), Sandslash (56), Manectric (57)
+- Black Belt Davon (587): 	Makuhita (54), Hitmontop (54), Machamp (57) 
+- Ace Trainer Moira (574): 	Sandslash (56), Gastrodon (West Sea) (56), Claydol (57)
+- Dragon Tamer Keegan (559): 	Gyarados (55), Flygon (57)
+- Pokémon Ranger Kyler (591): 	Zangoose (55), Exeggutor (55), Empoleon (58)
+- Pokémon Ranger Krista (596): 	Seviper (56), Marowak (57), Aggron (57)
+- Ace Trainer Meagan (577): 	Delcatty (57), Abomasnow (58)
+- Psychic Corbin (583): 	Xatu (56), Gallade (56)
+
+Rematch:
+
+- Black Belt Davon (700): 	Hitmontop (59), Hariyama (59), Machamp (59)
+
+- Ace Trainer Moira (672): 	Sandslash (59), Gastrodon (West Sea) (59), Claydol (60)
+
+- Pokémon Ranger Kyler (735): 	Zangoose (58), Exeggutor (60), Empoleon (62) 
+
+- Psychic Corbin (676): 	Xatu (60), Gallade (60)
+
+Route 229:
+
+- Ace Trainer Felix (566): 	Dusclops (55), Salamence (56)
+- Ace Trainer Dana (575): 	Mightyena (55), Gardevoir (56)
+- Ace Trainer Sandra (578): 	Dugtrio (55), Raichu (54), Ninetales (54)
+- Pokémon Ranger Deshawn (592): Spinda (54), Kecleon (54), Granbull (54)
+
+Route 230:
+
+- Swimmer Sophia (602): 	Delibird (53), Mantine (53), Gorebyss (54)
+- Swimmer Sam (599): 		Sealeo (53), Gastrodon (West Sea) (53), Huntail (54)
+- Swimmer Glenn (597): 		Poliwhirl (53) Octillery (53), Poliwrath (55)
+- Swimmer Mallory (603): 	Surskit (52), Masquerain (54)
+- Swimmer Joanna (601): 	Luvdisc (52), Lapras (54)
+- Swimmer Kurt (598): 		Crawdaunt (54), Kingler (54)
+
+Rematch:
+
+- Swimmer Glenn (761): 		Octillery (58), Politoed (60), Poliwrath (60)
+
+- Swimmer Joanna (764): 	Luvdisc (57), Corsola (58), Lapras (59)
+
+Stark Mountain (Exterior):
+
+- Dragon Tamer Darien (558): 	Gyarados (56), Dragonite (60)
+
+Stark Mountain (Entance):
+
+- Commander Mars (926):
+	Bronzong (58): Extrasensory, Reflect, Light Screen, Confuse Ray
+	Yanmega  (58): U-turn, Air Slash, AncientPower, Detect 
+	Purugly  (60): Slash, Shadow Claw, Aerial Ace, Hypnosis (Sitrus Berry)
+
+- Commander Jupiter (927):
+	Crobat   (58): Sludge Bomb, Air Slash, Giga Drain, Confuse Ray
+	Gliscor  (58): Earthquake, Aerial Ace, Night Slash, U-turn
+	Skuntank (60): Poison Jab, Night Slash, Flamethrower, SmokeScreen (Sitrus Berry)
+
+Stark Mountain (Main Cavern):
+
+- Ace Trainer Keenan (569): 	Primeape (58), Banette (58), Electivire (59)
+- Ace Trainer Kassandra (579): 	Jumpluff (58), Steelix (58), Ampharos (59)
+
+- Ace Trainer Stefan (570): 	Pupitar (58), Magcargo (58), Torterra (61)
+- Ace Trainer Jasmin (580): 	Drapion (61)
+
+- Bird Keeper Krystal (556): 	Dodrio (55), Staraptor (57), Noctowl (59)
+- Black Belt Ray (589): 	Breloom (58), Toxicroak (58)
+
+- Ace Trainer Abel (572): 	Armaldo (58), Crobat (60)
+- Ace Trainer Monique (582): 	Cradily (58), Gliscor (58), Ursaring (59)
+
+- Psychic Chelsey (586): 	Lunatone (57), Gardevoir (59)
+- Psychic Sterling (584): 	Solrock (57), Gallade (59)
+
+- Veteran Harlan (606): 	Shiftry (57), Drifblim (58), Togekiss (59)
+- Dragon Tamer Kenny (562): 	Shelgon (57), Gyarados (57), Flygon (57)
+
+- Ace Trainer Skylar (571): 	Exploud (58), Pelipper (58), Rampardos (59) 
+- Ace Trainer Natasha (581): 	Wigglytuff (58), Medicham (58), Bastiodon (59)
+
+- Dragon Tamer Drake (561): 	Dragonair (57), Altaria (57), Kingdra (57)
+- Black Belt Jarrett (590): 	Machamp (60)
+
+Survival Area:
+
+- Rival Barry (837) (Turtwig):
+	Staraptor (61): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Rapidash  (59): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Heracross (61): Megahorn, Close Combat, Rock Slide, Night Slash
+	Floatzel  (59): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Snorlax   (63): Body Slam, Crunch, Earthquake, Rest (Lum Berry)
+	Torterra  (65): Wood Hammer, Earthquake, Crunch, Stealth Rock (Life Orb)
+
+- Rival Barry (838) (Chimchar):
+	Staraptor (61): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Floatzel  (59): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Heracross (61): Megahorn, Close Combat, Rock Slide, Night Slash
+	Roserade  (59): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Snorlax   (63): Body Slam, Crunch, Earthquake, Rest (Lum Berry)
+	Infernape (65): Flare Blitz, Close Combat, Aerial Ace, Shadow Claw (Life Orb)
+
+- Rival Barry (839) (Piplup):
+	Staraptor (61): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Roserade  (59): Giga Drain, Poison Jab, Shadow Ball, GrassWhistle
+	Heracross (61): Megahorn, Close Combat, Rock Slide, Night Slash
+	Rapidash  (59): Flamethrower, Bounce, Will-O-Wisp, Sunny Day
+	Snorlax   (63): Body Slam, Crunch, Earthquake, Rest (Lum Berry)
+	Empoleon  (65): Hydro Pump, Flash Cannon, Ice Beam, Grass Knot (Life Orb)
+
+- Rival Barry (871) (Turtwig):
+	Staraptor (81): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Rapidash  (79): Flamethrower, Megahorn, Bounce, Will-O-Wisp
+	Heracross (81): Megahorn, Close Combat, Night Slash, Stone Edge
+	Floatzel  (79): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Snorlax   (83): Giga Impact, Crunch, Zen Headbutt, Earthquake (Muscle Band)
+	Torterra  (85): Wood Hammer, Earthquake, Crunch, Stealth Rock (Life Orb)
+
+- Rival Barry (872) (Chimchar):
+	Staraptor (81): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Floatzel  (79): Aqua Tail, Ice Fang, Crunch, Brick Break
+	Heracross (81): Megahorn, Close Combat, Night Slash, Stone Edge
+	Roserade  (79): Giga Drain, Sludge Bomb, Shadow Ball, GrassWhistle
+	Snorlax   (83): Giga Impact, Crunch, Zen Headbutt, Earthquake (Muscle Band)
+	Infernape (85): Flare Blitz, Close Combat, Aerial Ace, Shadow Claw (Life Orb)
+
+- Rival Barry (873) (Piplup):
+	Staraptor (81): Brave Bird, Close Combat, Steel Wing, U-turn (Focus Sash)
+	Roserade  (79): Giga Drain, Sludge Bomb, Shadow Ball, GrassWhistle
+	Heracross (81): Megahorn, Close Combat, Night Slash, Stone Edge
+	Rapidash  (79): Flamethrower, Megahorn, Bounce, Will-O-Wisp
+	Snorlax   (83): Giga Impact, Crunch, Zen Headbutt, Earthquake (Muscle Band)
+	Empoleon  (85): Hydro Pump, Flash Cannon, Ice Beam, Grass Knot (Life Orb)
+
+Battleground:
+
+- Pokémon Trainer Riley (861):
+	Absol     (64): Night Slash, Psycho Cut, Aerial Ace, Swords Dance
+	Ursaring  (64): Thrash, Aerial Ace, Shadow Claw, Earthquake
+	Metagross (66): Meteor Mash, Zen Headbutt, Hammer Arm, Bullet Punch (Life Orb)
+	Salamence (66): Dragon Claw, Crunch, Fire Fang, Dragon Dance (Lum Berry)
+	Lucario   (68): Close Combat, Stone Edge, Blaze Kick, Earthquake (Expert Belt)
+
+- Pokémon Trainer Buck (862):
+	Shuckle  (64): Toxic, Double Team, Substitute, Sandstorm (Leftovers)
+	Umbreon  (66): Dark Pulse, Psychic, Confuse Ray, Double Team (BrightPowder)
+	Torkoal  (64): Eruption, Earth Power, Will-O-Wisp, Protect
+	Dusknoir (66): Shadow Punch, Sucker Punch, Confuse Ray, Pain Split
+	Claydol  (68): Earth Power, Psychic, AncientPower, Calm Mind (Sitrus Berry)
+
+- Pokémon Trainer Marley (863):
+	Ninjask   (64): X-Scissor, Aerial Ace, Night Slash, Swords Dance
+	Electrode (64): Thunder, Hyper Beam, Thunder Wave, Double Team
+	Crobat    (66): Sludge Bomb, Air Slash, Confuse Ray, Double Team (BrightPowder)
+	Weavile   (66): Night Slash, Ice Punch, Aerial Ace, Ice Shard (Life Orb)
+	Arcanine  (68): Flare Blitz, Thunder Fang, Crunch, ExtremeSpeed (Muscle Band)
+
+- Pokémon Trainer Mira (864):
+	Porygon-Z (64): Tri Attack, Thunderbolt, Psychic, Dark Pulse (Wise Glasses)
+	Gengar    (64): Shadow Ball, Sludge Bomb, Psychic, Energy Ball
+	Magnezone (66): Thunder, Flash Cannon, Hyper Beam, Thunder Wave (Wide Lens)
+	Togekiss  (66): ExtremeSpeed, Air Slash, Aura Sphere, Yawn
+	Alakazam  (68): Psychic, Focus Blast, Hyper Beam, Calm Mind (Focus Sash)
+
+- Pokémon Trainer Cheryl (865):
+	Wobbuffet (64): Counter, Mirror Coat, Encore, Safeguard
+	Drifblim  (64): Shadow Ball, Fly, Toxic, Protect 
+	Hariyama  (66): Close Combat, Stone Edge, Earthquake, Bullet Punch (Muscle Band)
+	Wailord   (66): Water Spout, Ice Beam, Earthquake, Brine (Quick Claw)
+	Blissey   (68): Psychic, Counter, Toxic, SoftBoiled (Leftovers)
+
+- Leader Roark (858):
+	Sudowoodo  (64): Head Smash, Wood Hammer, Hammer Arm, Sucker Punch
+	Relicanth  (64): Head Smash, Aqua Tail, Sleep Talk, Rest
+	Aerodactyl (66): Stone Edge, Aerial Ace, Dragon Claw, Earthquake (Scope Lens)
+	Probopass  (64): Power Gem, Flash Cannon, Discharge, Stealth Rock (Focus Sash)
+	Tyranitar  (66): Stone Edge, Crunch, Fire Fang, Earthquake
+	Rampardos  (68): Head Smash, Zen Headbutt, Earthquake, Stone Edge (Life Orb)
+
+- Leader Gardenia (857):
+	Jumpluff  (64): Giga Drain, Leech Seed, Sleep Powder, Sunny Day (Heat Rock)
+	Cherrim   (66): SolarBeam, Weather Ball, Leech Seed, Sunny Day (Focus Sash)
+	Shiftry   (64): Energy Ball, Dark Pulse, Extrasensory, Nasty Plot
+	Leafeon   (64): Leaf Blade, X-Scissor, GrassWhistle, Swords Dance
+	Torterra  (66): Wood Hammer, Earthquake, Stone Edge, Iron Tail
+	Roserade  (68): SolarBeam, Sludge Bomb, Shadow Ball, Hyper Beam (Power Herb)
+
+- Leader Fantina (860):
+	Sableye   (64): Shadow Claw, Zen Headbutt, Confuse Ray, Detect
+	Banette   (64): Shadow Claw, Sucker Punch, Payback, Will-O-Wisp
+	Drifblim  (64): Ominous Wind, Silver Wind, Psychic, Baton Pass
+	Dusknoir  (66): Shadow Sneak, Will-O-Wisp, Confuse Ray, Double Team (Leftovers)
+	Gengar    (66): Shadow Ball, Sludge Bomb, Thunderbolt, Focus Blast (Focus Sash)
+	Mismagius (68): Shadow Ball, Magical Leaf, Psychic, Power Gem (Life Orb)
+
+- Leader Maylene (854):
+	Hitmontop (64): Close Combat, Stone Edge, Sucker Punch, Brick Break
+	Toxicroak (64): Poison Jab, Drain Punch, Sucker Punch, Swagger
+	Breloom   (64): Seed Bomb, Sky Uppercut, Spore, Substitute
+	Machamp   (66): Cross Chop, Stone Edge, Earthquake, Bullet Punch (Life Orb)
+	Medicham  (66): Hi Jump Kick, Zen Headbutt, Fire Punch, Ice Punch (Choice Band)
+	Lucario   (68): Aura Sphere, Flash Cannon, Water Pulse, Vacuum Wave (Focus Sash) 
+
+- Leader Wake (859):
+	Sharpedo  (64): Waterfall, Night Slash, Ice Fang, Rain Dance (Damp Rock)
+	Poliwrath (64): Waterfall, Focus Punch, Ice Punch, Hypnosis
+	Quagsire  (64): Surf, Earthquake, Stone Edge, Rain Dance
+	Gyarados  (66): Aqua Tail, Stone Edge, Earthquake, Dragon Dance
+	Ludicolo  (66): Hydro Pump, Energy Ball, Focus Blast, Rain Dance (Leftovers)
+	Floatzel  (68): Aqua Tail, Ice Fang, Crunch, Aqua Jet (Life Orb)
+
+- Leader Byron (856):
+	Skarmory  (64): Steel Wing, Drill Peck, Stealth Rock, Roost
+	Bronzong  (64): Gyro Ball, Zen Headbutt, Hypnosis, Trick Room
+	Steelix   (64): Iron Tail, Earthquake, Ice Fang, Crunch (Quick Claw)
+	Magnezone (66): Thunderbolt, Flash Cannon, Light Screen, Magnet Rise (Focus Sash)
+	Aggron    (66): Iron Head, Head Smash, Dragon Rush, Earthquake
+	Bastiodon (68): Metal Burst, AncientPower, Stealth Rock, Rest (Lum Berry)
+
+- Leader Candice (853):
+	Abomasnow (66): Wood Hammer, Ice Punch, Earthquake, GrassWhistle
+	Walrein   (64): Surf, Blizzard, Swagger, Protect
+	Weavile   (64): Night Slash, Ice Punch, Brick Break, Taunt
+	Mamoswine (64): Earthquake, Ice Fang, Stone Edge, Double Team (Muscle Band)
+	Glaceon   (66): Blizzard, Water Pulse, Mirror Coat, Double Team (BrightPowder)
+	Froslass  (68): Blizzard, Shadow Ball, Psychic, Confuse Ray (Life Orb)
+
+- Leader Volkner (855):
+	Jolteon    (64): Thunder, Shadow Ball, Iron Tail, Rain Dance
+	Raichu     (64): Thunder, Focus Blast, Surf, Thunder Wave
+	Rotom-Wash (64): Thunderbolt, Shadow Ball, Hydro Pump, Confuse Ray
+	Lanturn    (66): Surf, Discharge, Ice Beam, Signal Beam (BrightPowder)
+	Luxray     (66): Thunder Fang, Fire Fang, Ice Fang, Crunch (Choice Scarf)
+	Electivire (68): ThunderPunch, Fire Punch, Cross Chop, Earthquake (Muscle Band)
+
+Pokémon League Rematches:
+
+- Elite Four Aaron (866):
+	Yanmega   (68): Bug Buzz, Air Slash, Giga Drain, Detect
+	Scizor    (68): X-Scissor, Bullet Punch, Night Slash, Swords Dance
+	Vespiquen (70): Attack Order, Aerial Ace, Power Gem, Defend Order (Leftovers)
+	Heracross (70): Megahorn, Close Combat, Stone Edge, Earthquake (Muscle Band)
+	Flygon    (68): Dragon Rush, Earthquake, Iron Tail, U-turn
+	Drapion   (72): Cross Poison, Night Slash, X-Scissor, Earthquake (Scope Lens)
+
+- Elite Four Bertha (867):
+	Whiscash  (70): Surf, Earthquake, Ice Beam, Zen Headbutt
+	Gliscor   (72): Earthquake, X-Scissor, Fire Fang, Guillotine (Scope Lens)
+	Hippowdon (72): Earthquake, Crunch, Ice Fang, Slack Off (Leftovers)
+	Golem     (70): Stone Edge, Earthquake, Fire Punch, ThunderPunch
+	Claydol   (70): Psychic, Earth Power, Cosmic Power, Sandstorm
+	Rhyperior (74): Earthquake, Rock Wrecker, Megahorn, Thunder Fang (Muscle Band) 
+
+- Elite Four Flint (868):
+	Houndoom  (72): Dark Pulse, Flamethrower, Sludge Bomb, Sunny Day
+	Flareon   (74): Flare Blitz, Giga Impact, Overheat, Will-O-Wisp (Life Orb)
+	Rapidash  (72): Flare Blitz, Megahorn, Iron Tail, Sunny Day
+	Infernape (74): Flamethrower, Focus Blast, Grass Knot, Calm Mind (Focus Sash)
+	Torkoal   (72): Heat Wave, SolarBeam, Sludge Bomb, Sunny Day
+	Magmortar (76): Fire Blast, Thunderbolt, Focus Blast, Psychic (Wide Lens)
+
+- Elite Four Lucian (869):
+	Mr. Mime (74): Psychic, Thunderbolt, Reflect, Light Screen (Light Clay)
+	Espeon   (76): Psychic, Shadow Ball, Signal Beam, Light Screen
+	Bronzong (74): Gyro Ball, Zen Headbutt, Rock Slide, Earthquake (Leftovers)
+	Alakazam (76): Psychic, Energy Ball, Focus Blast, Calm Mind
+	Slowing  (74): Surf, Psychic, Flamethrower, Slack Off
+	Gallade  (78): Psycho Cut, Close Combat, Leaf Blade, Swords Dance (Life Orb)
+
+- Champion Cynthia (870):
+	Spiritomb (78): Shadow Ball, Dark Pulse, Sucker Punch, Will-O-Wisp
+	Porygon-Z (78): Hyper Beam, Shadow Ball, Ice Beam, Thunderbolt
+	Togekiss  (80): Air Slash, Aura Sphere, Psychic, Roost (Leftovers)
+	Lucario   (80): Close Combat, Iron Tail, Earthquake, ExtremeSpeed
+	Milotic   (78): Surf, Ice Beam, Mirror Coat, Recover (Flame Orb)
+	Garchomp  (82): Dragon Rush, Earthquake, Brick Break, Giga Impact (Sitrus Berry)
+
+
